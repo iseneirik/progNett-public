@@ -1,0 +1,11 @@
+1. Parallellitet: All sortering kan gå i parallell i programmet, aller siste steg vil selvfølgelig bare være en tråd, men opp til da går det parallellt.
+				  Det som ikke kan gå parallellt er skriving og lesing av fil, for det krever all info på en plass.
+
+2. Kjøretiden programmet ditt bruker på sorteringen i forhold til «antOrd» og «antTråder»: 
+				grunnet min initielle sortering, som jeg inrømmer jeg kunne jobbet med for å få en mer effektiv løsning,
+				så vil kjøretiden øke drastisk ved dobling av antOrd, første sortering bruker (antOrd/antTråder)^2 steg for å sortere, så dobling av antOrd vil firedoble antall steg
+				dette kan utgjevnes med dobling av antTråder. mergesort delen av sorteringen (etter den initielle), bruker antOrd*antTråder steg til å løse seg (tror jeg), så dobling av
+				antOrd vil doble kjøretiden av andre del av sorteringen.
+
+
+

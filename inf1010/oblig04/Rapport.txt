@@ -1,0 +1,33 @@
+Rapport fra parprogrammering, Oblig 4 i INF1010 våren 2014
+
+Denne rapporten skal leveres individuelt av alle som har gjennomført Oblig4 som parprogrammering.
+Fyll ut i denne filen, lagre som tekst og lever i Devilry på vanlig måte.
+
+Partner  1 (eirikise):
+Totalt antall minutter som fører: 600 
+Totalt antall minutter som kartleser: 600 
+Totalt antall minutter på egen hånd: 300
+
+Partner 2 (maxam):
+Totalt antall minutter som fører: 600
+Totalt antall minutter som kartleser: 600
+Totalt antall minutter på egen hånd: 120
+
+Hvordan opplevde du parprogrammering som arbeidsform sammenlignet med å jobbe alene?
+- Effektivitet (1-5, der 1 betyr ’Klart mindre effektivt’ og 5 ‘Klart mer effektivt’): 2
+- Læringsverdi (1-5, der 1 betyr ‘Klart mindre lærerikt’ og 5 ‘Klart mer lærerikt’):4
+- Arbeidsglede (1-5, der 1 betyr ‘Klart mindre arbeidsglede’ og 5 ‘Klart mer arbeidsglede’):3 
+
+Hva var det beste ved parprogrammeringen (bruk den plassen du trenger)?
+Det blir god og mer lesbar kode enn når man er flere som  er sammen om å lage en kode
+
+Hva likte du dårligst ved parprogrammeringen (bruk den plassen du trenger)?
+Man bruker langt mer tid enn ved en fordeling av oppgaver.
+
+Ønsker du mer parprogrammering i programmeringsemnene?
+Nei.
+
+Hva kan forbedres i opplegget rundt parprogrammering?
+En mer logisk krevende oppgave, og ikke så mye "rett-fram-koding".
+Partnere burde bli tildelt tilfeldig innad i gruppetime-gruppene,
+da er det større sjangs for at begge har tid samtidig.
