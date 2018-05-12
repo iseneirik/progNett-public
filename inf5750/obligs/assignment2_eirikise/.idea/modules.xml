@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assignment2.iml" filepath="$PROJECT_DIR$/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment2-api/assignment2-api.iml" filepath="$PROJECT_DIR$/assignment2-api/assignment2-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment2-deliverable/assignment2-deliverable.iml" filepath="$PROJECT_DIR$/assignment2-deliverable/assignment2-deliverable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment2-gui/assignment2-gui.iml" filepath="$PROJECT_DIR$/assignment2-gui/assignment2-gui.iml" />
+    </modules>
+  </component>
+</project>

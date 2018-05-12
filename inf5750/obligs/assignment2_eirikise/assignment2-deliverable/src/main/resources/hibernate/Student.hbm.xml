@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="no.uio.inf5750.assignment2.model.Student" table="attendants">
+        <id name="id" column="student_id">
+            <generator class="native" />
+        </id>
+        <set name="courses" table="attendants_courses">
+            <key column="student_id" />
+            <many-to-many column="course_id" class="no.uio.inf5750.assignment2.model.Course"/>
+        </set>
+        <property name="name" not-null="true" />
+        <property name="latitude" />
+        <property name="longitude" />
+    </class>
+</hibernate-mapping>

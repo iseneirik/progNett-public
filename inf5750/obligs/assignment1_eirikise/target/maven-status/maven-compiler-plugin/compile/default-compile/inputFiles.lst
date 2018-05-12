@@ -1,0 +1,4 @@
+/home/iseneirik/Documents/INF5750/assignment1_eirikise/src/main/java/no/uio/inf5750/assignment1/model/Message.java
+/home/iseneirik/Documents/INF5750/assignment1_eirikise/src/main/java/no/uio/inf5750/assignment1/controller/BaseController.java
+/home/iseneirik/Documents/INF5750/assignment1_eirikise/src/main/java/no/uio/inf5750/assignment1/dao/MessageDao.java
+/home/iseneirik/Documents/INF5750/assignment1_eirikise/src/main/java/no/uio/inf5750/assignment1/dao/HibernateMessageDao.java

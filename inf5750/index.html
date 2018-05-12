@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Datastore management app</title>
+    <!--Import Google Icon Font-->
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="/node_modules/materialize-css/dist/css/materialize.min.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="/src/styles/align.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="/src/styles/custom.css" media="screen,projection" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-wrapper container">
+            <a href="#" data-activates="mobile-demo" class="button-collapse right"><i class="material-icons">menu</i></a>
+            <a href="" class="left" onClick="location.reload();"><i class="medium material-icons">loop</i>Refresh</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="/">View namespaces</a></li>
+                <li><a href="/create">Add new namespace / key</a></li>
+            </ul>
+            <ul class="side-nav" id="mobile-demo">
+              <li><a href="/">View namespaces</a></li>
+              <li><a href="/create">Add new namespace / key</a></li>
+            </ul>
+        </div>
+    </nav>
+    <!-- end navigation -->
+    <!-- the app renders here -->
+    <div class="container">
+        <div class="row">
+            <div id="app" class="col s12"></div>
+        </div>
+    </div>
+    <!-- end app render -->
+    <!-- scripts -->
+    <script src="/static/bundle.js"></script>
+    <!--Import jQuery before materialize.js-->
+  <script type="text/javascript" src="/src/js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="/node_modules/materialize-css/dist/js/materialize.min.js"></script>
+  <script>
+        document.collapsibleNeedsInit = true;
+        document.modalNeedsInit = true;
+
+        $('.button-collapse').sideNav({
+          menuWidth: 300, // Default is 240
+          edge: 'right', // Choose the horizontal origin
+          closeOnClick: true, // Closes side-nav on <a> clicks, useful for Angular/Meteor
+          draggable: true // Choose whether you can drag to open on touch screens
+        }
+      );
+
+        $(document).ready(function() {
+            $('select').material_select();
+            $('.stop-propagation').on('click', function(e){
+                e.stopPropagation();
+            });
+            $('.modal').modal();
+        });
+        function modalInit() {
+          if(document.modalNeedsInit) {
+            $('.modal').modal();
+            document.modalNeedsInit = false;
+          }
+        }
+        setInterval(modalInit, 100);
+
+        function collapsibleInit() {
+            if(document.collapsibleNeedsInit){
+                $('.collapsible').collapsible();
+                $('select').material_select();
+                $('#sel').on('change', function(e){
+                   setType(path, e.target.value)
+                });
+                document.collapsibleNeedsInit = false;
+            }
+        }
+        setInterval(collapsibleInit, 100);
+    </script>
+    <!-- end scripts -->
+</body>
+</html>
