@@ -1,0 +1,9 @@
+ASSIGNMENT A
+
+Assignments in this course will be carried out in Java, using Eclipse. (If you want to use another IDE than Eclipse you are free to do that, but then you’re on your own.) Assignments will be carried out in the context of an existing Eclipse project that is handed out and that contains a number of simple interfaces and helper classes. Typically, your tasks will consist of implementing missing pieces or new implementations for some of these interfaces.
+
+This assignment will allow you get acquainted with the aforementioned Eclipse project, and implement the routine that builds a small in-memory inverted index.
+
+1. Download SimpleSearch-A.zip from the course homepage. Unzip the Java project, load the project into Eclipse, and familiarize yourself with the classes and interfaces.
+2. ObligATest.java contains two simple JUnit tests that you can use as a basis for simple testing.
+3. The implementation of InMemoryInvertedIndex.java is incomplete, and it is your task to finish it. Basically, you should be able to run the JUnit tests in ObligAtest, which create a small in-memory inverted index for two collections. The results expected from the unit tests will help you to see if you're on the right track. The task is to complete step 1-4 in IR p. 6-7. However, step 1-3 are already done, your job is to finish the final leg (step 4).

@@ -1,0 +1,51 @@
+There are two implementation tasks in this assignment. Task A will count for 25% and Task B accounts for 
+75%. This should also reflect the respective workload for each task. I recommend that you set aside 
+plenty of time for Task B :)
+
+TASK A:
+
+The previous Assignments use exact matching of the query terms, ie, the query term "backgammon" only 
+matches backgammon only and not Variants such as, eg, bcakgammon or back-gammon. There are many techniques 
+available to do fuzzy or approximate matching, and in this assignment you will be tasked with 
+implementing a system that uses n-grams to do this.
+
+An n-gram is simply a window over n characters in a string. For example, the set of 3-grams from the 
+string backgammon would be the set {bac, ack, ckg, kga, gam, amm, mmo, mon}. In some applications one 
+might want to append special markers to the start and/or end of the string (e.g., ^backgammon$) and 
+use the n-grams over this instead of the original string.
+
+Obviously, in an n-gram based retrieval task one would want the items in the result set to contain as 
+many of the n-grams in the query as possible. Note the resemblance with the N-of-M matching task 
+from Assignment C.
+
+The code to complete is spread in two files: ShingleGenerator.java and ShingleRanker.java.  Complete the
+missing code in these two classes, and verify the correctness of your implementation using the two
+JUnit tests made available in ObligETest.
+
+
+TASK B:
+
+In task B you will complete the implementation of a Naive Bayes classifier. We again base our implementation 
+on the Simple Search architecture, so that you can relate you to a familiar framework. But there is much 
+overhead (the architecture is not really suited for this task), so the construction of the inverted indexes
+will be quite slow. I recommend that you only index part of the data which is made available, so it's a little
+faster.  You can adjust this in NaiveBayesClassifier.FolderReader (eg. line 78-79). But test with all the data 
+when you're done!
+
+You have to complete the classes MultinomialNaiveBayes. The training of the classifier is performed
+in MultinomialNaiveBayes, where the prior and likelihood distributions are estimated.  The prior corresponds to the
+distribution P(c), whereas the likelihood is defined as P(w|c), where w is a word and c is a class.  
+
+You should carefully read the pseudo-code in 13.2, page 260 (in IR) for details. However, I recommend using the formula 
+in 13.7, that is, with add-one smoothing. If this is too simple, you can obviously do more advanced smoothing if you will.
+
+The classification is then made in accordance with Fig. 13.2, page 260. 
+
+BONUS QUESTION: I have not tested, but I think the classification will get far better results if we had used a stop dictionary. 
+You may want to extract a stop dictionary and test this!
+
+You can test your implementation using the third method of ObligETest.  The method trains a Naive Bayes model given
+the data in data/train, and subsequently test the model with the held-out data in data/test.  The data collection is
+composed of 20 distinct newsgroups, each with a number of posts.  The task is to automatically infer the correct 
+newsgroup from the content of the post.
+

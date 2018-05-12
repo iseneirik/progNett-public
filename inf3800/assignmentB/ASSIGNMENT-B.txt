@@ -1,0 +1,10 @@
+ASSIGNMENT B
+
+Some types of searches can very well be carried out without the use of an inverted index. In this assignment you will implement a simple in-memory index that uses a suffix array to do phrase searches. E.g., the user query {foo bar baz} (without the curly braces) would require that we find the exact phrase "foo bar baz" somewhere in each document in the result set.
+
+1. Download SimpleSearch-B.zip from the course homepage. Unzip the Java project, and load the project into Eclipse.
+2. ObligBTest.java contains a JUnit test that you can use as a basis for simple testing.
+3. The implementation of SuffixArray.java is incomplete, and it is your task to finish it. Basically, you should be able to run the unit tests in ObligBTest, which should build a suffix array over two alternative collections (respectively stored in data/cran.xml and data/wescience.txt), and perform simple phrase searches on it.
+4. ZIP the whole SimpleSearch directory, and send it through Devilry.
+
+Mind the lookup speed as well - if your lookup takes significantly longer than 0.1 second for each document collection, you should see if you can optimize the code. It is expected that your implementation not only works, but will scale reasonably if the index was significantly larger.

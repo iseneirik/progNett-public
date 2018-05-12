@@ -1,0 +1,23 @@
+
+1. TF-IDF weighting
+
+In the previous assignment, we implemented a query evaluator, and relied on a simplistic BrainDeadRanker to return the relevance score.  The only operation performed by BrainDeadRanker was to calculate the overlap between the words in the query and the ones in the document.
+
+A more realistic search engine should use a weighting scheme for the words in the document, given some words are more relevant than others. For instance, if you search for the query «Rachmaninov 3», you will probably be more interested in the documents which include «rachmaninov» than the ones which include «3».
+
+TF-IDF is such a weighting scheme.  In this assignment, we will therefore replace the BrainDeadRanker by a new TfIdfRanker.  Your task is to implement the update method in the TF-IDF ranker, and ensure that the result is correct using the provided JUnit test.
+
+
+2. Document similarity
+
+Many search engines (such as Google) offer the possibility to find similar pages after a search.  This can be done by computing the cosine similarity between documents, and returning the documents with the highest score.  To do this, you have to extend the system with a document vector representation.  Each document gets a distinct document vector, which can then be compared with other document vectors using the cosine similarity measure.
+
+DocumentEvaluator evaluates an input document against all other documents in the document store, and returns the documents with highest cosine score.  You can keep this class as it is, and complete the implementation of DocumentVector.  Again, use the Junit test to determine whether your code is correct.
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=3cm]{geometry}
+\usepackage{graphicx}
+
+\title{Assignment D -- On Paper}
+\author{Eirik Isene}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Query term proximity}
+
+A scoring method that considers the relative closeness of the query terms is generally desirable. How can it be integrated in a serach engine? Provide a few alternative options for such implementation, and describe the advantages and disadvantages of each.
+
+\subsection{Suggestion A}
+We can implement a scoring that takes into account the closeness by dividing the document length with the distance between the query term in the document. This value can then be multiplied by the score of the document, this will in turn give high scores to the documents in which the terms are close, and lower scores to the documents with a long distance between. One of the biggest dissadvantages of this is that documents that differ greatly in size will get uneven results, so longer documents will get higher values etc. This can be taken into consideration by scaling this score logarithmicly, then great values won't have such a big impact.
+
+\subsection{Suggestion B}
+Another way to do this would be to add a maximum distance, and only consider results where the query terms are within this range of eachother in the document. A great dissadvantage to this method is that we might be trimming away a lot of usefull results because one or more of the words are outside of this range, but don't really matter much to the query.
+
+\end{document}
