@@ -1,0 +1,54 @@
+\documentclass[norsk, 12p]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage[top = 1cm]{geometry}
+\usepackage{enumerate}
+
+\setcounter{secnumdepth}{0}
+
+\title{Obligatorisk Innlevering}
+\author{Eirik Isene}
+
+\begin{document}
+\maketitle
+
+\subsection{Oppgave 20.15}
+\begin{enumerate}[a)]
+    \item Ikke en ekvivalensrelasjon, mangler $\langle e,e\rangle$
+    \item Er en ekvivalensrelasjon, $[a] = \{a,b\}$
+    \item Ikke en ekvivalensrelasjon, mangler $\langle c,d\rangle$ og $\langle d,c\rangle$
+    \item Ikke en ekvivalensrelasjon, mangler $\langle c,a\rangle$, $\langle c,b\rangle$, $\langle a,b\rangle$ og $\langle b,a\rangle$
+    \item Er en ekvivalensrelasjon, $[a] = \{a\}$
+    \item Er en ekvivalensrelasjon, $[a] = \{a,c\}$
+\end{enumerate}
+
+\subsection{Oppgave 20.16}
+\subsubsection{Oppgave a)} 
+\begin{enumerate}   
+    \item La $\sim$ være en ekvivalensrelasjon på de naturlige tallene
+    \item La $E$ være $[0]$
+    \item Vis at $E \neq \emptyset$
+    \item Siden $\sim$ er en ekvivalensrelasjon (1), er det en refleksiv relasjon
+    \item Siden $\sim$ er en refleksiv relasjon (4), så er $\langle 0,0\rangle \in \sim$
+    \item Siden $\langle 0,0\rangle \in \sim$ (5), så er $0 \in [0]$
+    \item Dermed er det vist at $E \neq \emptyset$ fordi $E = [0]$ (2) og $[0] \neq \emptyset$ (6) 
+\end{enumerate}
+\subsubsection{Oppgave b)}
+\begin{enumerate} 
+    \item La $\sim$ være en ekvivalensrelasjon på de naturlige tallene
+    \item La $E$ være $[0]$
+    \item La $x, y \in E$
+    \item Siden $x, y \in E$ (3) så er $\langle 0,x\rangle ,\langle 0,y\rangle \in \sim$
+    \item Siden $\langle 0,x\rangle \in \sim$ (4) så følger det av symmetri at $\langle x,0\rangle \in \sim$ ($\sim$ er en ekvivalensrelasjon (1))
+    \item siden $\langle x,0\rangle \in \sim$ (5) og $\langle 0,y\rangle \in \sim$ (4) så følger det av transitivitet at $\langle x,y\rangle \in \sim$ ($\sim$ er en ekvivalensrelasjon (1))
+    \item dermed er det bevist at alle naturlige tall $x$ og $y$ som er elementer i $E$ er det slik at $x \sim y$ (6)
+\end{enumerate}
+\subsubsection{Oppgave c)}
+Ja, definisjonen av en ekvivalensklasse sier at alle elementer i en ekvivalensklasse er relatert til hverandre i ekvivalensrelasjonen som skaper ekvivalensklassene, da kan man ut fra definisjonen si at dersom $[x] = [y]$ så vil $x \sim y$ også være tilfelle!
+
+\subsection{Oppgave 21.16}
+Det finnes $5^5 = 3125$ funksjoner fra $S$ til $S$, og $5! = 120$ av disse er bijeksjoner.
+
+
+\end{document}

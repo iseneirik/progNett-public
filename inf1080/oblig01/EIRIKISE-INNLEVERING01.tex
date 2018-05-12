@@ -1,0 +1,59 @@
+% Forfatter, tittel, dato
+\documentclass[12pt, norsk, a4paper]{article}
+\author{Eirik Isene}
+\title{Obligatorisk Innlevering 01}
+\date{\today}
+
+% Norske tegn og norsk utseende + skrifttype
+\usepackage[latin1]{inputenc} % lagring
+\usepackage[T1]{fontenc} % For norske tegn
+\usepackage[norsk]{babel}
+\usepackage[norsk]{isodate}
+\usepackage{parskip} % For parallelle avsnitt
+\usepackage{url} % For å formattere URL-er
+\usepackage{color}
+\usepackage{multicol}
+\usepackage[top=0cm]{geometry}
+\newcommand{\tab}{\hspace*{2em}}
+
+% Selve innholdet
+\begin{document}
+\maketitle % Lager en tittel
+
+% Lister
+\subsection*{Oppgave 1.8}
+\begin{multicols}{2}
+\begin{description}
+\item[(a)] $x \in \{x\}$ sant
+\item[(b)] $\{x\} \in \{x\}$ usant
+\item[(c)] $\{x\} \subseteq \{x\}$ sant
+\item[(d)] $\{x\} \in \{\{x\}\}$ sant
+\item[(e)] $\{x\} \subseteq \{\{x\}\}$ usant
+\item[(f)] $\emptyset \in \{x\}$ usant
+\item[(g)] $\emptyset \subseteq \{x\}$ sant
+\item[(h)] $\emptyset \subseteq \{\{x\}\}$ sant
+\end{description}
+\end {multicols}
+
+\subsection*{Oppgave 1.9}
+A = $\{1,3,5,7,9\}$ \tab B = $\{0,1,2,3,4\}$ \tab C = $\{5,6,7,8,9\}$ \\
+\begin{multicols}{2}
+\begin{description}
+\item[(a)] $A\setminus B = \{5,7,9\}$ 
+\item[(b)] $B\setminus A = \{0,2,4\}$
+\item[(c)] $(A\cup B) = \{5,7,9\}$
+\item[(d)] $C\setminus (A\cup B) = \{6,8\}$
+\item[(e)] $(A\setminus B)\setminus C = \emptyset$
+\item[(f)] $(B\cup C)\setminus A = \{0,2,4,6,8\}$
+\end{description}
+\end{multicols}
+
+\subsection*{Oppgave 1.10}
+\begin{description}
+\item[(a)] $\{1,2,3,4\}$ har 16 delmengder
+\item[(b)] $\{1,2,3,4,5\}$ har 32 delmengder
+\end{description}
+
+
+
+\end{document}

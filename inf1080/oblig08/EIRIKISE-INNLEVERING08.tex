@@ -1,0 +1,62 @@
+\documentclass[norsk, 12p]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{color}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+%\usepackage[top = 1cm]{geometry}
+
+\newcommand{\hl}[1]{\textcolor{blue}{#1}}
+
+\setcounter{secnumdepth}{0}
+
+\title{Obligatorisk Innlevering 05}
+\author{Eirik Isene}
+
+\begin{document}
+\maketitle
+
+\subsection{Oppgave 13.4}
+Vis ved induksjon at følgende påstand er sann for alle naturlige tall n.
+$$n^3 - n \text{ er delelig med 3}$$
+
+\subsubsection{Basissteget}
+Vi sier at $P(n)$ står for at $n^3 - n = 3a$ er sant, hvor $a \in \mathbb{N}$ \\ 
+Vi må vise at påstanden stemmer for $n = 0$:
+$$0^3 - 0  =  0$$
+$3a = 0 \Rightarrow a = 0$ og $0 \in \mathbb{N}$, P(0) er sann! \\
+Vi antar så at det stemmer for P(n) altså at:
+$$n^3 - n = 3a$$
+Hvor $a \in \mathbb{N}$, dette er \hl{induksjonshypotesen} vår
+
+\subsubsection{Induksjonssteget}
+Vi må så vise at påstanden stemmer for $(n+1)$: \\ \\
+\begin{tabular}{r l l}
+$P(n+1)$ & $=(n + 1)^3 - (n + 1)$             & | Skal være delelig med $3$ \\ 
+         & $=(n^3 + 3n^2 + 3n + 1) - (n + 1)$ & | Regning \\
+         & $=n^3 + 3n^2 + 3n + 1 - n - 1$     & | Regning \\
+         & $=n^3 + 3n^2 + 3n - n$             & | Regning \\
+         & $=\hl{n^3 - n} + 3n^2 + 3n$        & | \hl{Induksjonshypotesen} \\
+         & $=\hl{3a} + 3n^2 + 3n$             & | $a \in \mathbb{N}$  \\
+         & $=3(a + n^2 + n)$                  & | $3$ er en faktor i alle ledd \\
+\end{tabular} \\ \\
+Siden $a \in \mathbb{N}$ og $n \in \mathbb{N}$ så har vi vist at påstanden stemmer for $P(n+1)$!
+
+\pagebreak
+
+\subsection{Oppgave 14.6}
+\subsubsection{Oppgave C}
+\begin{enumerate}
+\item $f(f(b)) = b$
+\item Induksjon
+\item Induksjonshypotesen
+\item $f(f(bx))$
+\item $bx$
+\item Punkt 2
+\item $f(b)0$
+\item Punkt 3
+\item Strukturell induksjon på mengden av binære tall
+\item $f(f(b)) = b$
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,48 @@
+\documentclass[norsk, 12p]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage[top = 1cm]{geometry}
+\usepackage{enumerate}
+
+\setcounter{secnumdepth}{0}
+
+\title{Obligatorisk Innlevering 10}
+\author{Eirik Isene}
+
+\begin{document}
+\maketitle
+
+\subsection{Oppgave 17.9}
+\begin{enumerate}[a)]
+\item $R^M = \{\langle 1,1\rangle,\langle 1,2\rangle,\langle 2,1\rangle,\langle 2,2\rangle \}$
+\item $R^M = \{\langle 1,1\rangle,\langle 1,2\rangle \}$
+\item $R^M = \{\langle 1,2\rangle,\langle 2,1\rangle \}$
+\item $R^M = \{\langle 1,2\rangle,\langle 1,1\rangle,\langle 2,2\rangle \}$
+\end{enumerate}
+
+\subsection{Oppgave 17.12}
+
+\subsubsection{Oppgave a)}
+Vis at $Pa \lor Pb \to \exists xPx$ er gyldig \\
+Ved motsigelsesbevis:
+\begin{enumerate}
+\item Vi prøver å gjøre $Pa \lor Pb \to \exists xPx$ usann
+\item Det medfører at $Pa \lor Pb$ må være sann
+\item Det medfører at $Pa$ er sann, eller at $Pb$ er sann
+\item Det medfører at det finnes en $x$ som gjør $Px$ sann
+\item Det medfører at hele formelen er sann, ergo er den ikke falsifiserbar, men gyldig.
+\end{enumerate}
+
+\subsubsection{Oppgave b)}
+Vis at $\forall xPx \to Pa \land Pb$ er gyldig \\
+Ved motsigelsesbevis:
+\begin{enumerate}
+\item Vi prøver å gjøre $\forall xPx \to Pa \land Pb$ usann
+\item Det medfører at $\forall xPx$ må være sann
+\item Det medfører at $Pa$ er sann og $Pb$ er sann
+\item Det medfører at $Pa \land Pb$ er sann
+\item Det medfører at hele formelen er sannm ergo er den ikke falsifiserbar, men gyldig.  
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,38 @@
+\documentclass[norsk, 12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage[top=1cm]{geometry}
+
+\setcounter{secnumdepth}{0}
+
+\title{Obligatorisk Innlevering 03}
+\author{Eirik Isene}
+
+\begin{document}
+\maketitle
+
+\section{Oppgave 4.13}
+\begin{align*}
+&(A \land B)& &\Leftrightarrow& &\neg(\neg A \lor \neg B)& &\Leftrightarrow& &\neg(A \to \neg B) \\
+&(A \land \neg B)& &\Leftrightarrow& &\neg(\neg A \lor B)& &\Leftrightarrow& &\neg(A \to B) \\
+&(\neg A \land B)& &\Leftrightarrow& &\neg(A \lor \neg B)& &\Leftrightarrow& &\neg(\neg A \to \neg B) \\
+&(\neg A \land \neg B)& &\Leftrightarrow& &\neg(A \lor B)& &\Leftrightarrow& &\neg(\neg A \to B) \\
+\end{align*}
+
+\section{Oppgave 5.3}
+\begin{description}
+\item[(a)] $(P \lor Q) \to \neg P$ \\ Oppfyllbar når: P er usann \\ Falsifiserbar når: P er sann
+\item[(b)] $P \lor (Q \to \neg P)$ \\ Tautologi fordi $(Q \to \neg P)$ blir sann alle ganger P er usann og de står på hver sin side av $\lor$ tegnet
+\item[(c)] $(P \land Q) \to \neg P$ \\ Oppfyllbar når: P er usann \\ Falsifiserbar når: P og Q er sann
+\item[(d)] $((P \to Q) \land \neg Q) \to \neg P$ \\ Tautologi, fordi om man prøver å falsifisere, må P være usann (så $\neg P$ blir sann) og videre må Q være sann (så $(P \to Q)$ blir sann), men da blir $\neg Q$ usann, som gjør hele $((P \to Q) \land \neg Q)$ usann, og dermed blir utrykket sant
+\item[(e)] $\neg(P \lor Q)\land (\neg Q \lor R) \land (\neg R \lor P)$ \\ Oppfyllbar når: P, Q og R er usann \\ Falsifiserbar ved alle andre kombinasjoner av P og Q
+\item[(f)] $(\neg(P \lor Q)) \land P$ \\ Kontradiksjon fordi P må være usann for at $\neg(P \lor Q)$ skal være sann, og dermed kan formelen aldri valueres til sann fordi P kan ikke være sann og usann samtidig!
+\end{description}
+
+\section{Oppgave 5.8}
+For å lage en eksklusiv formel, altså at formelen blir sann når, og bare når en av variablene er sann og ikke den andre, så kommer vi fra til denne formelen: \\ \\
+$(\neg F \land G) \lor (F \land \neg G)$  \\ \\
+Dette blir riktig fordi første del av formelen blir sann kun når $G$ er sann og $F$ er usann, og andre del av formelen blir sann kun når $F$ er sann og $G$ er usann, siden disse to formlene er kombinert sammen i en eller formel, så blir hele formelen sann når enten bare $F$ eller bare $G$ er sann.
+
+\end{document}

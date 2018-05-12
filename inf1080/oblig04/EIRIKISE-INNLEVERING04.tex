@@ -1,0 +1,56 @@
+\documentclass[norsk, 12p]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage[top = 1cm]{geometry}
+
+\setcounter{secnumdepth}{0}
+
+\title{Obligatorisk Innlevering 04}
+\author{Eirik Isene}
+
+\begin{document}
+\maketitle
+
+\section{Oppgave 7.7}
+Hvis $(P \to Q)$ er sann og $(Q \to R)$ er sann, så er $(P \to R)$ sann
+
+\subsection{Oppgave a)}
+Ved direkte bevis:
+\begin{description}
+\item[(1)] Vi antar at $(P \to Q)$ er sann og at $(Q \to R)$ er sann, og skal vise at $(P \to R)$ er sann
+\item[(2)] Vi antar at $P$ er sann, for dersom $P$ er usann, blir $(P \to R)$ alltid sann.
+\item[(3)] Dersom $(P \to Q)$ er sann $(1)$, og $P$ er sann $(2)$, må $Q$ være sann.
+\item[(4)] Dersom $(Q \to R)$ er sann $(1)$ og $P$ er sann $(2)$ og $Q$ er sann $(3)$, må $R$ være sann
+\item[(5)] Dersom $P$ er sann $(2)$ og $R$ er sann $(4)$, så er $(P \to R)$ sann
+\end{description}
+
+\subsection{Oppgave c)}
+Ved et motsigelsesbevis:
+\begin{description}
+\item[(1)] Vi antar at $(P \to R)$ er usann
+\item[(2)] Vi antar at $(P \to Q)$ er sann og $(Q \to R)$ er sann
+\item[(3)] Dersom $(P \to R)$ er usann $(1)$, må $P$ være sann og $R$ være usann
+\item[(4)] Dersom $P$ er sann $(3)$ og $(P \to Q)$ er sann $(2)$, må $Q$ være sann
+\item[(5)] Dersom $Q$ er sann $(4)$ og $R$ er usann $(3)$ så er $(Q \to R)$ usann
+\item[(6)] Vi ser at $(Q \to R)$ er usann $(5)$ og $(Q \to R)$ er sann $(2)$, dette er en motsigelse.   
+\end{description}
+Siden vi ender i en motsigelse ved å anta det motsatte, er den originale antakelsen sann!
+
+\section{Oppgave 7.10}
+Er påstanden sann eller usann? $F$ står for en utsagnslogisk formel.
+
+\subsection{Oppgave g)}
+For alle $F$, så er $F$ oppfyllbar eller $\neg F$ oppfyllbar.
+\begin{description}
+\item[(1)] Dersom $F$ er en kontradiksjon vil $\neg F$ være en tautologi, altså oppfyllbar.
+\item[(2)] Dersom $F$ ikke er en kontradiksjon, så er den oppfyllbar.
+\end{description}
+
+\subsection{Oppgave h)}
+For alle $F$, så er $F$ en tautologi eller $\neg F$ en tautologi.
+\begin{description}
+\item[(1)] Dersom $F$ er både oppfyllbar og falsifiserbar er verken $F$ en tautologi, eller $\neg F$ en tautologi.
+\end{description}
+
+\end{document}

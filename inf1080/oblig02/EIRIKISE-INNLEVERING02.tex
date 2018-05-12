@@ -1,0 +1,58 @@
+% Forfatter, tittel, dato
+\documentclass[12pt, norsk, a4paper]{article}
+\author{Eirik Isene}
+\title{Obligatorisk Innlevering 02}
+\date{\today}
+
+% Norske tegn og norsk utseende + skrifttype
+\usepackage[latin1]{inputenc} % lagring
+\usepackage[T1]{fontenc} % For norske tegn
+\usepackage[norsk]{babel}
+\usepackage{parskip} % For parallelle avsnitt
+\usepackage{url} % For Ã¥ formattere URL-er
+\usepackage{color}
+\usepackage{multicol}
+\usepackage[top=0cm]{geometry}
+\newcommand{\tab}{\hspace*{2em}}
+
+% Selve innholdet
+\begin{document}
+\maketitle % Lager en tittel
+
+% Lister
+\subsection*{Oppgave 3.8 (a)}
+\emph{H:} \textbf{``Jeg spiser honning''}\tab \emph{M:} \textbf{``Jeg drikker melk''}\tab \emph{B:} \textbf{``Jeg spiser brød''}
+\begin{description}
+\item[(1)] $(H \land M) \rightarrow \neg B$
+\item[(2)] $(\neg B \land \neg H) \land M $
+\end{description}
+
+
+\subsection*{Oppgave 3.8 (b)}
+\begin{description}
+\item[(1)] \textbf{Hvis} jeg drikker melk hver gang jeg spiser honning, \textbf{så} spiser jeg brød 
+\item[(2)] \textbf{Hvis} jeg spiser honning, \textbf{så} er det slik at jeg spiser brød \textbf{hvis} jeg drikker melk
+\end{description}
+
+
+\subsection*{Oppgave 3.8 (c)}
+\begin{tabular}{ccccc}
+  $H$ & $M$ & $B$ & $(H \rightarrow M) \rightarrow B$ & $H \rightarrow (M \rightarrow B)$ \\
+  \hline
+  $1$ & $1$ & $1$ & ${\color{red}1}$ & ${\color{red}1}$ \\
+  $1$ & $1$ & $0$ & ${\color{red}0}$ & ${\color{red}0}$ \\
+  $1$ & $0$ & $1$ & ${\color{red}1}$ & ${\color{red}1}$ \\
+  $1$ & $0$ & $0$ & ${\color{red}1}$ & ${\color{red}1}$ \\
+  $0$ & $1$ & $1$ & ${\color{red}1}$ & ${\color{red}1}$ \\
+  ${\color{blue}0}$ & ${\color{blue}1}$ & ${\color{blue}0}$ & ${\color{blue}0}$ & ${\color{blue}1}$ \\
+  $0$ & $0$ & $1$ & ${\color{red}1}$ & ${\color{red}1}$ \\
+  $0$ & $0$ & $0$ & ${\color{red}1}$ & ${\color{red}1}$ \\
+\end{tabular}\\ \\ \\
+Der hvor tallene er blå, er sannhetsverdiene slik at den ene formelen blir sann, og den andre usann.
+
+
+\subsection*{Oppgave 3.8 (d)}
+$(H \land M) \lor (H \land B) \lor (M \land B)$
+
+
+\end{document}
