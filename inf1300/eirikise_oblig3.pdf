@@ -1,0 +1,1319 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 11 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 10 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 12 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 10 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 13 0 R
+ /PageLabels 14 0 R
+ /PageMode /UseNone
+ /Pages 10 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author ()
+ /CreationDate (D:20140910211809-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R10': class PDFPages 
+10 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 6 0 R
+ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R11': class PDFStream 
+11 0 obj
+% page stream
+<< /Length 26879 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 214.3762 cm
+q
+q
+.796625 0 0 .796625 0 0 cm
+q
+1 0 0 1 6.3 7.908361 cm
+q
+1 1 1 RG
+.2 w
+1 1 1 rg
+n -6 -6 696 744 re B*
+Q
+q
+1 1 1 rg
+n 0 720.75 72 12 re f*
+1 1 1 rg
+n 0 696.75 36 12 re f*
+1 1 1 rg
+n 42 696.75 30 12 re f*
+1 1 1 rg
+n 78 696.75 42 12 re f*
+1 1 1 rg
+n 120 696.75 6 12 re f*
+1 1 1 rg
+n 48 684.75 30 12 re f*
+1 1 1 rg
+n 84 684.75 42 12 re f*
+1 1 1 rg
+n 126 684.75 6 12 re f*
+1 1 1 rg
+n 132 684.75 12 12 re f*
+1 1 1 rg
+n 144 684.75 6 12 re f*
+1 1 1 rg
+n 156 684.75 42 12 re f*
+1 1 1 rg
+n 204 684.75 18 12 re f*
+1 1 1 rg
+n 222 684.75 6 12 re f*
+1 1 1 rg
+n 48 672.75 24 12 re f*
+1 1 1 rg
+n 78 672.75 42 12 re f*
+1 1 1 rg
+n 120 672.75 6 12 re f*
+1 1 1 rg
+n 126 672.75 12 12 re f*
+1 1 1 rg
+n 138 672.75 6 12 re f*
+1 1 1 rg
+n 150 672.75 18 12 re f*
+1 1 1 rg
+n 174 672.75 24 12 re f*
+1 1 1 rg
+n 198 672.75 6 12 re f*
+1 1 1 rg
+n 48 660.75 30 12 re f*
+1 1 1 rg
+n 84 660.75 24 12 re f*
+1 1 1 rg
+n 114 660.75 18 12 re f*
+1 1 1 rg
+n 138 660.75 24 12 re f*
+1 1 1 rg
+n 162 660.75 6 12 re f*
+1 1 1 rg
+n 48 648.75 36 12 re f*
+1 1 1 rg
+n 90 648.75 42 12 re f*
+1 1 1 rg
+n 132 648.75 6 12 re f*
+1 1 1 rg
+n 138 648.75 12 12 re f*
+1 1 1 rg
+n 150 648.75 12 12 re f*
+1 1 1 rg
+n 48 636.75 30 12 re f*
+1 1 1 rg
+n 84 636.75 24 12 re f*
+1 1 1 rg
+n 108 636.75 6 12 re f*
+1 1 1 rg
+n 114 636.75 6 12 re f*
+1 1 1 rg
+n 120 636.75 6 12 re f*
+1 1 1 rg
+n 132 636.75 36 12 re f*
+1 1 1 rg
+n 0 624.75 12 12 re f*
+1 1 1 rg
+n 0 600.75 72 12 re f*
+1 1 1 rg
+n 0 576.75 36 12 re f*
+1 1 1 rg
+n 42 576.75 30 12 re f*
+1 1 1 rg
+n 78 576.75 30 12 re f*
+1 1 1 rg
+n 108 576.75 6 12 re f*
+1 1 1 rg
+n 48 564.75 48 12 re f*
+1 1 1 rg
+n 102 564.75 42 12 re f*
+1 1 1 rg
+n 144 564.75 6 12 re f*
+1 1 1 rg
+n 150 564.75 12 12 re f*
+1 1 1 rg
+n 162 564.75 6 12 re f*
+1 1 1 rg
+n 174 564.75 42 12 re f*
+1 1 1 rg
+n 222 564.75 18 12 re f*
+1 1 1 rg
+n 240 564.75 6 12 re f*
+1 1 1 rg
+n 48 552.75 48 12 re f*
+1 1 1 rg
+n 102 552.75 42 12 re f*
+1 1 1 rg
+n 144 552.75 6 12 re f*
+1 1 1 rg
+n 150 552.75 12 12 re f*
+1 1 1 rg
+n 162 552.75 6 12 re f*
+1 1 1 rg
+n 174 552.75 18 12 re f*
+1 1 1 rg
+n 198 552.75 24 12 re f*
+1 1 1 rg
+n 222 552.75 6 12 re f*
+1 1 1 rg
+n 48 540.75 36 12 re f*
+1 1 1 rg
+n 90 540.75 42 12 re f*
+1 1 1 rg
+n 132 540.75 6 12 re f*
+1 1 1 rg
+n 138 540.75 12 12 re f*
+1 1 1 rg
+n 150 540.75 6 12 re f*
+1 1 1 rg
+n 0 528.75 12 12 re f*
+1 1 1 rg
+n 0 504.75 36 12 re f*
+1 1 1 rg
+n 42 504.75 30 12 re f*
+1 1 1 rg
+n 78 504.75 78 12 re f*
+1 1 1 rg
+n 156 504.75 6 12 re f*
+1 1 1 rg
+n 48 492.75 36 12 re f*
+1 1 1 rg
+n 90 492.75 42 12 re f*
+1 1 1 rg
+n 132 492.75 6 12 re f*
+1 1 1 rg
+n 138 492.75 12 12 re f*
+1 1 1 rg
+n 150 492.75 6 12 re f*
+1 1 1 rg
+n 162 492.75 42 12 re f*
+1 1 1 rg
+n 210 492.75 18 12 re f*
+1 1 1 rg
+n 228 492.75 6 12 re f*
+1 1 1 rg
+n 48 480.75 36 12 re f*
+1 1 1 rg
+n 90 480.75 42 12 re f*
+1 1 1 rg
+n 132 480.75 6 12 re f*
+1 1 1 rg
+n 138 480.75 12 12 re f*
+1 1 1 rg
+n 150 480.75 6 12 re f*
+1 1 1 rg
+n 162 480.75 36 12 re f*
+1 1 1 rg
+n 204 480.75 18 12 re f*
+1 1 1 rg
+n 228 480.75 24 12 re f*
+1 1 1 rg
+n 252 480.75 6 12 re f*
+1 1 1 rg
+n 48 468.75 54 12 re f*
+1 1 1 rg
+n 108 468.75 42 12 re f*
+1 1 1 rg
+n 150 468.75 6 12 re f*
+1 1 1 rg
+n 156 468.75 12 12 re f*
+1 1 1 rg
+n 168 468.75 6 12 re f*
+1 1 1 rg
+n 180 468.75 18 12 re f*
+1 1 1 rg
+n 204 468.75 24 12 re f*
+1 1 1 rg
+n 0 456.75 12 12 re f*
+1 1 1 rg
+n 0 432.75 42 12 re f*
+1 1 1 rg
+n 0 420.75 36 12 re f*
+1 1 1 rg
+n 42 420.75 24 12 re f*
+1 1 1 rg
+n 72 420.75 42 12 re f*
+1 1 1 rg
+n 120 420.75 36 12 re f*
+1 1 1 rg
+n 162 420.75 6 12 re f*
+1 1 1 rg
+n 168 420.75 60 12 re f*
+1 1 1 rg
+n 228 420.75 6 12 re f*
+1 1 1 rg
+n 240 420.75 78 12 re f*
+1 1 1 rg
+n 318 420.75 6 12 re f*
+1 1 1 rg
+n 330 420.75 72 12 re f*
+1 1 1 rg
+n 402 420.75 6 12 re f*
+1 1 1 rg
+n 414 420.75 42 12 re f*
+1 1 1 rg
+n 456 420.75 6 12 re f*
+1 1 1 rg
+n 468 420.75 60 12 re f*
+1 1 1 rg
+n 528 420.75 12 12 re f*
+1 1 1 rg
+n 0 408.75 36 12 re f*
+1 1 1 rg
+n 42 408.75 24 12 re f*
+1 1 1 rg
+n 72 408.75 42 12 re f*
+1 1 1 rg
+n 120 408.75 36 12 re f*
+1 1 1 rg
+n 162 408.75 6 12 re f*
+1 1 1 rg
+n 168 408.75 54 12 re f*
+1 1 1 rg
+n 222 408.75 6 12 re f*
+1 1 1 rg
+n 234 408.75 78 12 re f*
+1 1 1 rg
+n 312 408.75 6 12 re f*
+1 1 1 rg
+n 324 408.75 72 12 re f*
+1 1 1 rg
+n 396 408.75 6 12 re f*
+1 1 1 rg
+n 408 408.75 30 12 re f*
+1 1 1 rg
+n 438 408.75 6 12 re f*
+1 1 1 rg
+n 450 408.75 60 12 re f*
+1 1 1 rg
+n 510 408.75 12 12 re f*
+1 1 1 rg
+n 0 396.75 36 12 re f*
+1 1 1 rg
+n 42 396.75 24 12 re f*
+1 1 1 rg
+n 72 396.75 42 12 re f*
+1 1 1 rg
+n 120 396.75 36 12 re f*
+1 1 1 rg
+n 162 396.75 6 12 re f*
+1 1 1 rg
+n 168 396.75 48 12 re f*
+1 1 1 rg
+n 216 396.75 6 12 re f*
+1 1 1 rg
+n 228 396.75 102 12 re f*
+1 1 1 rg
+n 330 396.75 6 12 re f*
+1 1 1 rg
+n 342 396.75 72 12 re f*
+1 1 1 rg
+n 414 396.75 6 12 re f*
+1 1 1 rg
+n 426 396.75 42 12 re f*
+1 1 1 rg
+n 468 396.75 6 12 re f*
+1 1 1 rg
+n 480 396.75 12 12 re f*
+1 1 1 rg
+n 492 396.75 12 12 re f*
+1 1 1 rg
+n 0 384.75 36 12 re f*
+1 1 1 rg
+n 42 384.75 24 12 re f*
+1 1 1 rg
+n 72 384.75 42 12 re f*
+1 1 1 rg
+n 120 384.75 36 12 re f*
+1 1 1 rg
+n 162 384.75 6 12 re f*
+1 1 1 rg
+n 168 384.75 60 12 re f*
+1 1 1 rg
+n 228 384.75 6 12 re f*
+1 1 1 rg
+n 240 384.75 108 12 re f*
+1 1 1 rg
+n 348 384.75 6 12 re f*
+1 1 1 rg
+n 360 384.75 72 12 re f*
+1 1 1 rg
+n 432 384.75 6 12 re f*
+1 1 1 rg
+n 444 384.75 36 12 re f*
+1 1 1 rg
+n 480 384.75 6 12 re f*
+1 1 1 rg
+n 492 384.75 60 12 re f*
+1 1 1 rg
+n 552 384.75 12 12 re f*
+1 1 1 rg
+n 0 372.75 36 12 re f*
+1 1 1 rg
+n 42 372.75 24 12 re f*
+1 1 1 rg
+n 72 372.75 42 12 re f*
+1 1 1 rg
+n 120 372.75 36 12 re f*
+1 1 1 rg
+n 162 372.75 6 12 re f*
+1 1 1 rg
+n 168 372.75 42 12 re f*
+1 1 1 rg
+n 210 372.75 6 12 re f*
+1 1 1 rg
+n 222 372.75 102 12 re f*
+1 1 1 rg
+n 324 372.75 6 12 re f*
+1 1 1 rg
+n 336 372.75 72 12 re f*
+1 1 1 rg
+n 408 372.75 6 12 re f*
+1 1 1 rg
+n 420 372.75 42 12 re f*
+1 1 1 rg
+n 462 372.75 6 12 re f*
+1 1 1 rg
+n 474 372.75 60 12 re f*
+1 1 1 rg
+n 534 372.75 12 12 re f*
+1 1 1 rg
+n 0 348.75 36 12 re f*
+1 1 1 rg
+n 42 348.75 24 12 re f*
+1 1 1 rg
+n 72 348.75 30 12 re f*
+1 1 1 rg
+n 108 348.75 36 12 re f*
+1 1 1 rg
+n 150 348.75 6 12 re f*
+1 1 1 rg
+n 156 348.75 54 12 re f*
+1 1 1 rg
+n 210 348.75 6 12 re f*
+1 1 1 rg
+n 222 348.75 192 12 re f*
+1 1 1 rg
+n 414 348.75 6 12 re f*
+1 1 1 rg
+n 426 348.75 42 12 re f*
+1 1 1 rg
+n 468 348.75 12 12 re f*
+1 1 1 rg
+n 0 336.75 36 12 re f*
+1 1 1 rg
+n 42 336.75 24 12 re f*
+1 1 1 rg
+n 72 336.75 30 12 re f*
+1 1 1 rg
+n 108 336.75 36 12 re f*
+1 1 1 rg
+n 150 336.75 6 12 re f*
+1 1 1 rg
+n 156 336.75 54 12 re f*
+1 1 1 rg
+n 210 336.75 6 12 re f*
+1 1 1 rg
+n 222 336.75 186 12 re f*
+1 1 1 rg
+n 408 336.75 6 12 re f*
+1 1 1 rg
+n 420 336.75 42 12 re f*
+1 1 1 rg
+n 462 336.75 12 12 re f*
+1 1 1 rg
+n 0 324.75 36 12 re f*
+1 1 1 rg
+n 42 324.75 24 12 re f*
+1 1 1 rg
+n 72 324.75 30 12 re f*
+1 1 1 rg
+n 108 324.75 36 12 re f*
+1 1 1 rg
+n 150 324.75 6 12 re f*
+1 1 1 rg
+n 156 324.75 54 12 re f*
+1 1 1 rg
+n 210 324.75 6 12 re f*
+1 1 1 rg
+n 222 324.75 174 12 re f*
+1 1 1 rg
+n 396 324.75 6 12 re f*
+1 1 1 rg
+n 408 324.75 42 12 re f*
+1 1 1 rg
+n 450 324.75 12 12 re f*
+1 1 1 rg
+n 0 312.75 36 12 re f*
+1 1 1 rg
+n 42 312.75 24 12 re f*
+1 1 1 rg
+n 72 312.75 30 12 re f*
+1 1 1 rg
+n 108 312.75 36 12 re f*
+1 1 1 rg
+n 150 312.75 6 12 re f*
+1 1 1 rg
+n 156 312.75 54 12 re f*
+1 1 1 rg
+n 210 312.75 6 12 re f*
+1 1 1 rg
+n 222 312.75 78 12 re f*
+1 1 1 rg
+n 300 312.75 6 12 re f*
+1 1 1 rg
+n 312 312.75 42 12 re f*
+1 1 1 rg
+n 354 312.75 12 12 re f*
+1 1 1 rg
+n 0 300.75 36 12 re f*
+1 1 1 rg
+n 42 300.75 24 12 re f*
+1 1 1 rg
+n 72 300.75 30 12 re f*
+1 1 1 rg
+n 108 300.75 36 12 re f*
+1 1 1 rg
+n 150 300.75 6 12 re f*
+1 1 1 rg
+n 156 300.75 54 12 re f*
+1 1 1 rg
+n 210 300.75 6 12 re f*
+1 1 1 rg
+n 222 300.75 102 12 re f*
+1 1 1 rg
+n 324 300.75 6 12 re f*
+1 1 1 rg
+n 336 300.75 48 12 re f*
+1 1 1 rg
+n 384 300.75 12 12 re f*
+1 1 1 rg
+n 0 288.75 36 12 re f*
+1 1 1 rg
+n 42 288.75 24 12 re f*
+1 1 1 rg
+n 72 288.75 30 12 re f*
+1 1 1 rg
+n 108 288.75 36 12 re f*
+1 1 1 rg
+n 150 288.75 6 12 re f*
+1 1 1 rg
+n 156 288.75 54 12 re f*
+1 1 1 rg
+n 210 288.75 6 12 re f*
+1 1 1 rg
+n 222 288.75 90 12 re f*
+1 1 1 rg
+n 312 288.75 6 12 re f*
+1 1 1 rg
+n 324 288.75 30 12 re f*
+1 1 1 rg
+n 354 288.75 12 12 re f*
+1 1 1 rg
+n 0 264.75 36 12 re f*
+1 1 1 rg
+n 42 264.75 24 12 re f*
+1 1 1 rg
+n 72 264.75 78 12 re f*
+1 1 1 rg
+n 156 264.75 36 12 re f*
+1 1 1 rg
+n 198 264.75 6 12 re f*
+1 1 1 rg
+n 204 264.75 42 12 re f*
+1 1 1 rg
+n 246 264.75 6 12 re f*
+1 1 1 rg
+n 258 264.75 240 12 re f*
+1 1 1 rg
+n 498 264.75 6 12 re f*
+1 1 1 rg
+n 510 264.75 162 12 re f*
+1 1 1 rg
+n 672 264.75 12 12 re f*
+1 1 1 rg
+n 0 252.75 36 12 re f*
+1 1 1 rg
+n 42 252.75 24 12 re f*
+1 1 1 rg
+n 72 252.75 78 12 re f*
+1 1 1 rg
+n 156 252.75 36 12 re f*
+1 1 1 rg
+n 198 252.75 6 12 re f*
+1 1 1 rg
+n 204 252.75 30 12 re f*
+1 1 1 rg
+n 234 252.75 6 12 re f*
+1 1 1 rg
+n 246 252.75 216 12 re f*
+1 1 1 rg
+n 462 252.75 6 12 re f*
+1 1 1 rg
+n 474 252.75 162 12 re f*
+1 1 1 rg
+n 636 252.75 12 12 re f*
+1 1 1 rg
+n 0 240.75 36 12 re f*
+1 1 1 rg
+n 42 240.75 24 12 re f*
+1 1 1 rg
+n 72 240.75 78 12 re f*
+1 1 1 rg
+n 156 240.75 36 12 re f*
+1 1 1 rg
+n 198 240.75 6 12 re f*
+1 1 1 rg
+n 204 240.75 42 12 re f*
+1 1 1 rg
+n 246 240.75 6 12 re f*
+1 1 1 rg
+n 258 240.75 210 12 re f*
+1 1 1 rg
+n 468 240.75 6 12 re f*
+1 1 1 rg
+n 480 240.75 162 12 re f*
+1 1 1 rg
+n 642 240.75 12 12 re f*
+1 1 1 rg
+n 0 228.75 36 12 re f*
+1 1 1 rg
+n 42 228.75 24 12 re f*
+1 1 1 rg
+n 72 228.75 78 12 re f*
+1 1 1 rg
+n 156 228.75 36 12 re f*
+1 1 1 rg
+n 198 228.75 6 12 re f*
+1 1 1 rg
+n 204 228.75 36 12 re f*
+1 1 1 rg
+n 240 228.75 6 12 re f*
+1 1 1 rg
+n 252 228.75 150 12 re f*
+1 1 1 rg
+n 402 228.75 6 12 re f*
+1 1 1 rg
+n 414 228.75 162 12 re f*
+1 1 1 rg
+n 576 228.75 12 12 re f*
+1 1 1 rg
+n 0 216.75 36 12 re f*
+1 1 1 rg
+n 42 216.75 24 12 re f*
+1 1 1 rg
+n 72 216.75 78 12 re f*
+1 1 1 rg
+n 156 216.75 36 12 re f*
+1 1 1 rg
+n 198 216.75 6 12 re f*
+1 1 1 rg
+n 204 216.75 42 12 re f*
+1 1 1 rg
+n 246 216.75 6 12 re f*
+1 1 1 rg
+n 258 216.75 102 12 re f*
+1 1 1 rg
+n 360 216.75 6 12 re f*
+1 1 1 rg
+n 372 216.75 126 12 re f*
+1 1 1 rg
+n 498 216.75 12 12 re f*
+1 1 1 rg
+n 0 204.75 36 12 re f*
+1 1 1 rg
+n 42 204.75 24 12 re f*
+1 1 1 rg
+n 72 204.75 78 12 re f*
+1 1 1 rg
+n 156 204.75 36 12 re f*
+1 1 1 rg
+n 198 204.75 6 12 re f*
+1 1 1 rg
+n 204 204.75 48 12 re f*
+1 1 1 rg
+n 252 204.75 6 12 re f*
+1 1 1 rg
+n 264 204.75 114 12 re f*
+1 1 1 rg
+n 378 204.75 6 12 re f*
+1 1 1 rg
+n 390 204.75 126 12 re f*
+1 1 1 rg
+n 516 204.75 12 12 re f*
+1 1 1 rg
+n 0 180.75 72 12 re f*
+1 1 1 rg
+n 0 156.75 30 12 re f*
+1 1 1 rg
+n 0 144.75 36 12 re f*
+1 1 1 rg
+n 42 144.75 6 12 re f*
+1 1 1 rg
+n 0 132.75 24 12 re f*
+1 1 1 rg
+n 30 132.75 42 12 re f*
+1 1 1 rg
+n 72 132.75 6 12 re f*
+1 1 1 rg
+n 0 108.75 30 12 re f*
+1 1 1 rg
+n 0 96.75 36 12 re f*
+1 1 1 rg
+n 42 96.75 24 12 re f*
+1 1 1 rg
+n 0 84.75 24 12 re f*
+1 1 1 rg
+n 30 84.75 42 12 re f*
+1 1 1 rg
+n 0 72.75 30 12 re f*
+1 1 1 rg
+n 36 72.75 24 12 re f*
+1 1 1 rg
+n 66 72.75 24 12 re f*
+1 1 1 rg
+n 96 72.75 24 12 re f*
+1 1 1 rg
+n 126 72.75 12 12 re f*
+1 1 1 rg
+n 144 72.75 24 12 re f*
+1 1 1 rg
+n 174 72.75 24 12 re f*
+1 1 1 rg
+n 204 72.75 24 12 re f*
+1 1 1 rg
+n 228 72.75 6 12 re f*
+1 1 1 rg
+n 0 48.75 30 12 re f*
+1 1 1 rg
+n 0 36.75 36 12 re f*
+1 1 1 rg
+n 42 36.75 24 12 re f*
+1 1 1 rg
+n 66 36.75 6 12 re f*
+1 1 1 rg
+n 78 36.75 30 12 re f*
+1 1 1 rg
+n 0 24.75 24 12 re f*
+1 1 1 rg
+n 30 24.75 42 12 re f*
+1 1 1 rg
+n 0 12.75 30 12 re f*
+1 1 1 rg
+n 36 12.75 42 12 re f*
+1 1 1 rg
+n 78 12.75 6 12 re f*
+1 1 1 rg
+n 84 12.75 30 12 re f*
+1 1 1 rg
+n 120 12.75 24 12 re f*
+1 1 1 rg
+n 150 12.75 30 12 re f*
+1 1 1 rg
+n 180 12.75 6 12 re f*
+1 1 1 rg
+n 192 12.75 6 12 re f*
+1 1 1 rg
+n 204 12.75 12 12 re f*
+1 1 1 rg
+n 216 12.75 6 12 re f*
+BT 1 0 0 1 0 722 Tm 12 TL /F2 10 Tf .25098 .501961 .501961 rg (-- Oppgave 1) Tj T* /F3 10 Tf 0 0 0 rg  T* /F4 10 Tf 0 .501961 0 rg (CREATE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (TABLE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj (\() Tj  T* (        ) Tj (bnavn) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (12) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (PRIMARY) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (KEY) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (navn) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (30) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NULL) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (fdato) Tj ( ) Tj 0 .501961 0 rg (date) Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NULL) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (spkode) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\),) Tj  T* (        ) Tj (tlfnr) Tj ( ) Tj 0 .501961 0 rg (char) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (8) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (UNIQUE) Tj /F3 10 Tf 0 0 0 rg  T* (\);) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- Oppgave 2) Tj T* /F3 10 Tf 0 0 0 rg  T* /F4 10 Tf 0 .501961 0 rg (CREATE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (TABLE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj (\() Tj  T* (        ) Tj (emnekode) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (12) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (PRIMARY) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (KEY) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (emnenavn) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (30) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NULL) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (spkode) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\)) Tj  T* (\);) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (CREATE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (TABLE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj (\() Tj  T* (        ) Tj (spkode) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (PRIMARY) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (KEY) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (spnavn) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (50) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (UNIQUE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NULL) Tj /F3 10 Tf 0 0 0 rg (,) Tj  T* (        ) Tj (institutt) Tj ( ) Tj 0 .501961 0 rg (varchar) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (30) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NULL) Tj /F3 10 Tf 0 0 0 rg  T* (\);) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- Test) Tj T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('eirikise') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Eirik Isene') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('07.21.1993') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:Pro') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('93233652') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('hahesla') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('H\345kon Hesla') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('10.07.1993') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:D') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('94522311') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('simsam') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Simen Samuelsen') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('03.17.1993') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:Nor') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('pergasto') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Per Gaute Stople') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('10.23.1993') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:SK') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('98234542') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('magwa') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Magnus Wander\345s') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('08.11.1993') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('M:Leg') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('92233254') Tj 0 0 0 rg (\);) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('INF1000') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Introduksjon til Programmering') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:Pro') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('INF1010') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Objektorientert Programmering') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:Pro') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('INF1080') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Log metoder for informatikk') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:Pro') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('LEG1001') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Lege stuffz') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('M:Leg') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('LEG1023') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Tannlege stuffz') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('M:Tann') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('INF1500') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Design stuffz') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('I:D') Tj 0 0 0 rg (\);) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('I:Pro') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Informatikk: Programmering og Nettverk') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Institutt for informatikk') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('I:D') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Informatikk: Design og Interaksjon') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Institutt for informatikk') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('I:Nor') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Informatikk: ITteknologi og stuff') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Institutt for informatikk') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('I:SK') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Informatikk: Simly Kult') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Institutt for informatikk') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('M:Leg') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Medisin: ITLege') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Medisinske fakultet') Tj 0 0 0 rg (\);) Tj  T* /F4 10 Tf 0 .501961 0 rg (INSERT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (INTO) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (VALUES) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('M:Tann') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Medisin: Tannlege') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('Medisinske fakultet') Tj 0 0 0 rg (\);) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- Oppgave 3) Tj T* /F3 10 Tf 0 0 0 rg  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 1.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 2.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (navn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (navn) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('H%') Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (OR) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (navn) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('S%') Tj 0 0 0 rg (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 3.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (navn) Tj (,) Tj ( ) Tj (tlfnr) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (extract) Tj /F3 10 Tf 0 0 0 rg (\() Tj /F4 10 Tf 0 .501961 0 rg (month) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (from) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (fdato) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (;) Tj  T*  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 61.77616 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.3 6.3 cm
+q
+1 1 1 RG
+.2 w
+1 1 1 rg
+n -6 -6 554.3291 144 re B*
+Q
+q
+1 1 1 rg
+n 0 120.75 30 12 re f*
+1 1 1 rg
+n 0 108.75 36 12 re f*
+1 1 1 rg
+n 42 108.75 24 12 re f*
+1 1 1 rg
+n 0 96.75 24 12 re f*
+1 1 1 rg
+n 30 96.75 42 12 re f*
+1 1 1 rg
+n 0 84.75 30 12 re f*
+1 1 1 rg
+n 36 84.75 36 12 re f*
+1 1 1 rg
+n 72 84.75 6 12 re f*
+1 1 1 rg
+n 78 84.75 30 12 re f*
+1 1 1 rg
+n 108 84.75 6 12 re f*
+1 1 1 rg
+n 120 84.75 6 12 re f*
+1 1 1 rg
+n 132 84.75 6 12 re f*
+1 1 1 rg
+n 138 84.75 6 12 re f*
+1 1 1 rg
+n 0 60.75 30 12 re f*
+1 1 1 rg
+n 0 48.75 36 12 re f*
+1 1 1 rg
+n 42 48.75 30 12 re f*
+1 1 1 rg
+n 0 36.75 24 12 re f*
+1 1 1 rg
+n 30 36.75 42 12 re f*
+1 1 1 rg
+n 0 24.75 30 12 re f*
+1 1 1 rg
+n 36 24.75 24 12 re f*
+1 1 1 rg
+n 66 24.75 24 12 re f*
+1 1 1 rg
+n 96 24.75 42 12 re f*
+1 1 1 rg
+n 138 24.75 6 12 re f*
+1 1 1 rg
+n 0 .75 30 12 re f*
+BT 1 0 0 1 0 122 Tm 12 TL /F2 10 Tf .25098 .501961 .501961 rg (-- 4.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (navn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (length) Tj /F3 10 Tf 0 0 0 rg (\() Tj (bnavn) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (8) Tj 0 0 0 rg (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 5.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (bnavn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (navn) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('% % %') Tj 0 0 0 rg (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 6.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 14.17323 14.17323 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 459.5433 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 87.48583 0 Td (1/2) Tj T* -87.48583 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R12': class PDFStream 
+12 0 obj
+% page stream
+<< /Length 10871 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 453.3637 cm
+q
+q
+.796625 0 0 .796625 0 0 cm
+q
+1 0 0 1 6.3 7.908361 cm
+q
+1 1 1 RG
+.2 w
+1 1 1 rg
+n -6 -6 636 444 re B*
+Q
+q
+1 1 1 rg
+n 0 420.75 36 12 re f*
+1 1 1 rg
+n 42 420.75 30 12 re f*
+1 1 1 rg
+n 72 420.75 6 12 re f*
+1 1 1 rg
+n 84 420.75 24 12 re f*
+1 1 1 rg
+n 0 408.75 24 12 re f*
+1 1 1 rg
+n 30 408.75 42 12 re f*
+1 1 1 rg
+n 0 396.75 30 12 re f*
+1 1 1 rg
+n 36 396.75 36 12 re f*
+1 1 1 rg
+n 78 396.75 18 12 re f*
+1 1 1 rg
+n 102 396.75 24 12 re f*
+1 1 1 rg
+n 132 396.75 30 12 re f*
+1 1 1 rg
+n 162 396.75 6 12 re f*
+1 1 1 rg
+n 0 372.75 72 12 re f*
+1 1 1 rg
+n 0 348.75 30 12 re f*
+1 1 1 rg
+n 0 324.75 36 12 re f*
+1 1 1 rg
+n 42 324.75 6 12 re f*
+1 1 1 rg
+n 48 324.75 6 12 re f*
+1 1 1 rg
+n 54 324.75 24 12 re f*
+1 1 1 rg
+n 78 324.75 6 12 re f*
+1 1 1 rg
+n 90 324.75 6 12 re f*
+1 1 1 rg
+n 96 324.75 6 12 re f*
+1 1 1 rg
+n 102 324.75 36 12 re f*
+1 1 1 rg
+n 0 312.75 24 12 re f*
+1 1 1 rg
+n 30 312.75 42 12 re f*
+1 1 1 rg
+n 78 312.75 12 12 re f*
+1 1 1 rg
+n 96 312.75 6 12 re f*
+1 1 1 rg
+n 102 312.75 6 12 re f*
+1 1 1 rg
+n 114 312.75 78 12 re f*
+1 1 1 rg
+n 198 312.75 12 12 re f*
+1 1 1 rg
+n 216 312.75 6 12 re f*
+1 1 1 rg
+n 0 300.75 30 12 re f*
+1 1 1 rg
+n 36 300.75 6 12 re f*
+1 1 1 rg
+n 42 300.75 6 12 re f*
+1 1 1 rg
+n 48 300.75 30 12 re f*
+1 1 1 rg
+n 84 300.75 6 12 re f*
+1 1 1 rg
+n 96 300.75 12 12 re f*
+1 1 1 rg
+n 114 300.75 18 12 re f*
+1 1 1 rg
+n 138 300.75 6 12 re f*
+1 1 1 rg
+n 144 300.75 6 12 re f*
+1 1 1 rg
+n 150 300.75 36 12 re f*
+1 1 1 rg
+n 192 300.75 6 12 re f*
+1 1 1 rg
+n 204 300.75 6 12 re f*
+1 1 1 rg
+n 210 300.75 6 12 re f*
+1 1 1 rg
+n 216 300.75 36 12 re f*
+1 1 1 rg
+n 252 300.75 6 12 re f*
+1 1 1 rg
+n 0 276.75 30 12 re f*
+1 1 1 rg
+n 0 264.75 36 12 re f*
+1 1 1 rg
+n 42 264.75 6 12 re f*
+1 1 1 rg
+n 48 264.75 6 12 re f*
+1 1 1 rg
+n 54 264.75 24 12 re f*
+1 1 1 rg
+n 0 252.75 24 12 re f*
+1 1 1 rg
+n 30 252.75 42 12 re f*
+1 1 1 rg
+n 78 252.75 12 12 re f*
+1 1 1 rg
+n 96 252.75 6 12 re f*
+1 1 1 rg
+n 102 252.75 6 12 re f*
+1 1 1 rg
+n 114 252.75 78 12 re f*
+1 1 1 rg
+n 198 252.75 12 12 re f*
+1 1 1 rg
+n 216 252.75 6 12 re f*
+1 1 1 rg
+n 0 240.75 30 12 re f*
+1 1 1 rg
+n 36 240.75 6 12 re f*
+1 1 1 rg
+n 42 240.75 6 12 re f*
+1 1 1 rg
+n 48 240.75 36 12 re f*
+1 1 1 rg
+n 90 240.75 6 12 re f*
+1 1 1 rg
+n 102 240.75 6 12 re f*
+1 1 1 rg
+n 108 240.75 6 12 re f*
+1 1 1 rg
+n 114 240.75 36 12 re f*
+1 1 1 rg
+n 156 240.75 18 12 re f*
+1 1 1 rg
+n 180 240.75 6 12 re f*
+1 1 1 rg
+n 186 240.75 6 12 re f*
+1 1 1 rg
+n 192 240.75 36 12 re f*
+1 1 1 rg
+n 234 240.75 24 12 re f*
+1 1 1 rg
+n 264 240.75 78 12 re f*
+1 1 1 rg
+n 342 240.75 6 12 re f*
+1 1 1 rg
+n 0 216.75 30 12 re f*
+1 1 1 rg
+n 0 204.75 36 12 re f*
+1 1 1 rg
+n 42 204.75 6 12 re f*
+1 1 1 rg
+n 48 204.75 6 12 re f*
+1 1 1 rg
+n 54 204.75 36 12 re f*
+1 1 1 rg
+n 0 192.75 24 12 re f*
+1 1 1 rg
+n 30 192.75 78 12 re f*
+1 1 1 rg
+n 114 192.75 12 12 re f*
+1 1 1 rg
+n 132 192.75 6 12 re f*
+1 1 1 rg
+n 0 180.75 30 12 re f*
+1 1 1 rg
+n 36 180.75 18 12 re f*
+1 1 1 rg
+n 60 180.75 36 12 re f*
+1 1 1 rg
+n 96 168.75 6 12 re f*
+1 1 1 rg
+n 96 156.75 36 12 re f*
+1 1 1 rg
+n 138 156.75 24 12 re f*
+1 1 1 rg
+n 96 144.75 24 12 re f*
+1 1 1 rg
+n 126 144.75 30 12 re f*
+1 1 1 rg
+n 162 144.75 12 12 re f*
+1 1 1 rg
+n 180 144.75 6 12 re f*
+1 1 1 rg
+n 96 132.75 30 12 re f*
+1 1 1 rg
+n 132 132.75 6 12 re f*
+1 1 1 rg
+n 138 132.75 6 12 re f*
+1 1 1 rg
+n 144 132.75 36 12 re f*
+1 1 1 rg
+n 186 132.75 6 12 re f*
+1 1 1 rg
+n 198 132.75 6 12 re f*
+1 1 1 rg
+n 204 132.75 6 12 re f*
+1 1 1 rg
+n 210 132.75 36 12 re f*
+1 1 1 rg
+n 96 120.75 18 12 re f*
+1 1 1 rg
+n 120 120.75 6 12 re f*
+1 1 1 rg
+n 126 120.75 6 12 re f*
+1 1 1 rg
+n 132 120.75 48 12 re f*
+1 1 1 rg
+n 186 120.75 6 12 re f*
+1 1 1 rg
+n 198 120.75 54 12 re f*
+1 1 1 rg
+n 96 108.75 12 12 re f*
+1 1 1 rg
+n 0 84.75 30 12 re f*
+1 1 1 rg
+n 0 72.75 36 12 re f*
+1 1 1 rg
+n 42 72.75 6 12 re f*
+1 1 1 rg
+n 48 72.75 6 12 re f*
+1 1 1 rg
+n 54 72.75 48 12 re f*
+1 1 1 rg
+n 102 72.75 6 12 re f*
+1 1 1 rg
+n 114 72.75 6 12 re f*
+1 1 1 rg
+n 120 72.75 6 12 re f*
+1 1 1 rg
+n 126 72.75 48 12 re f*
+1 1 1 rg
+n 0 60.75 24 12 re f*
+1 1 1 rg
+n 30 60.75 30 12 re f*
+1 1 1 rg
+n 66 60.75 12 12 re f*
+1 1 1 rg
+n 84 60.75 6 12 re f*
+1 1 1 rg
+n 90 60.75 6 12 re f*
+1 1 1 rg
+n 102 60.75 78 12 re f*
+1 1 1 rg
+n 186 60.75 12 12 re f*
+1 1 1 rg
+n 204 60.75 6 12 re f*
+1 1 1 rg
+n 0 48.75 30 12 re f*
+1 1 1 rg
+n 36 48.75 6 12 re f*
+1 1 1 rg
+n 42 48.75 6 12 re f*
+1 1 1 rg
+n 48 48.75 36 12 re f*
+1 1 1 rg
+n 90 48.75 24 12 re f*
+1 1 1 rg
+n 120 48.75 36 12 re f*
+1 1 1 rg
+n 162 48.75 18 12 re f*
+1 1 1 rg
+n 186 48.75 6 12 re f*
+1 1 1 rg
+n 192 48.75 6 12 re f*
+1 1 1 rg
+n 198 48.75 54 12 re f*
+1 1 1 rg
+n 258 48.75 18 12 re f*
+1 1 1 rg
+n 282 48.75 24 12 re f*
+1 1 1 rg
+n 312 48.75 162 12 re f*
+1 1 1 rg
+n 480 48.75 18 12 re f*
+1 1 1 rg
+n 504 48.75 6 12 re f*
+1 1 1 rg
+n 510 48.75 6 12 re f*
+1 1 1 rg
+n 516 48.75 36 12 re f*
+1 1 1 rg
+n 558 48.75 6 12 re f*
+1 1 1 rg
+n 570 48.75 6 12 re f*
+1 1 1 rg
+n 576 48.75 6 12 re f*
+1 1 1 rg
+n 582 48.75 36 12 re f*
+1 1 1 rg
+n 618 48.75 6 12 re f*
+1 1 1 rg
+n 0 24.75 24 12 re f*
+1 1 1 rg
+n 30 24.75 30 12 re f*
+1 1 1 rg
+n 66 24.75 42 12 re f*
+1 1 1 rg
+n 108 24.75 6 12 re f*
+1 1 1 rg
+n 0 12.75 24 12 re f*
+1 1 1 rg
+n 30 12.75 30 12 re f*
+1 1 1 rg
+n 66 12.75 30 12 re f*
+1 1 1 rg
+n 96 12.75 6 12 re f*
+1 1 1 rg
+n 0 .75 24 12 re f*
+1 1 1 rg
+n 30 .75 30 12 re f*
+1 1 1 rg
+n 66 .75 78 12 re f*
+1 1 1 rg
+n 144 .75 6 12 re f*
+BT 1 0 0 1 0 422 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (bnavn) Tj (,) Tj ( ) Tj (navn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (spkode) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('I:%') Tj 0 0 0 rg (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- Oppgave 4) Tj T* /F3 10 Tf 0 0 0 rg  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 1.) Tj T* /F3 10 Tf 0 0 0 rg  T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (.) Tj (navn) Tj (,) Tj ( ) Tj (P) Tj (.) Tj (spnavn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (,) Tj ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (.) Tj (tlfnr) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('') Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (.) Tj (spkode) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spkode) Tj (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 2.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (.) Tj (navn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (,) Tj ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (S) Tj (.) Tj (spkode) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spkode) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spnavn) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('%teknologi%') Tj 0 0 0 rg (;) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 3.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spnavn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (EXISTS) Tj /F3 10 Tf 0 0 0 rg  T* (                ) Tj (\() Tj  T* (                ) Tj /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (NULL) Tj /F3 10 Tf 0 0 0 rg  T* (                ) Tj /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (E) Tj  T* (                ) Tj /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spkode) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (E) Tj (.) Tj (spkode) Tj  T* (                ) Tj /F4 10 Tf 0 .501961 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (E) Tj (.) Tj (emnekode) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('INF1000') Tj 0 0 0 rg  T* (                ) Tj (\);) Tj  T*  T* /F2 10 Tf .25098 .501961 .501961 rg (-- 4.) Tj T* /F4 10 Tf 0 .501961 0 rg (SELECT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (E) Tj (.) Tj (emnekode) Tj (,) Tj ( ) Tj (E) Tj (.) Tj (emnenavn) Tj  T* /F4 10 Tf 0 .501961 0 rg (FROM) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (E) Tj (,) Tj ( ) Tj (Studieprogram) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (as) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj  T* /F4 10 Tf 0 .501961 0 rg (WHERE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spnavn) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('%IT%') Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj (.) Tj (institutt) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (NOT) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (LIKE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('Institutt for informatikk') Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (P) Tj (.) Tj (spkode) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (E) Tj (.) Tj (spkode) Tj (;) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (DROP) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (TABLE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Student) Tj (;) Tj  T* /F4 10 Tf 0 .501961 0 rg (DROP) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (TABLE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Emner) Tj (;) Tj  T* /F4 10 Tf 0 .501961 0 rg (DROP) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (TABLE) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (Studieprogram) Tj (;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 445.3637 cm
+Q
+q
+1 0 0 1 14.17323 14.17323 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 459.5433 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 87.48583 0 Td (2/2) Tj T* -87.48583 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R13': class PDFOutlines 
+13 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R14': class PDFPageLabels 
+14 0 obj
+% Document Root
+<< /Nums [ 0
+ 15 0 R
+ 1
+ 16 0 R ] >>
+endobj
+% 'R15': class PDFPageLabel 
+15 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R16': class PDFPageLabel 
+16 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 17
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000587 00000 n
+0000000748 00000 n
+0000000917 00000 n
+0000001196 00000 n
+0000001475 00000 n
+0000001632 00000 n
+0000001876 00000 n
+0000001991 00000 n
+0000028970 00000 n
+0000039943 00000 n
+0000040026 00000 n
+0000040132 00000 n
+0000040209 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\327tc\276\214\225\377I\221\325\030\373vJ\361\206) (\327tc\276\214\225\377I\221\325\030\373vJ\361\206)] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 17 >>
+startxref
+40256
+%%EOF
