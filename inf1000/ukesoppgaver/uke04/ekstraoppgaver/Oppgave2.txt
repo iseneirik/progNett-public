@@ -1,0 +1,6 @@
+Oppgave 2:
+a) a = 22
+b) sum = 9
+c) produkt = 6
+d) 4, 5, 6, 3, 4, 5, 2, 3, 4
+e) 12

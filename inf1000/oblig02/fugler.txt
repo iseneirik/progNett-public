@@ -1,0 +1,4 @@
+Hauk,M,Gjovik,janur1812
+Due,F,Gjovik,mars1455
+Hans,H,Hamar,123Janu
+asdasdasdasdasdasd,g,gjovik,123fasd

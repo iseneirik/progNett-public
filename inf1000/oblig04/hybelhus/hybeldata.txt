@@ -1,0 +1,19 @@
+4;2013;616301;6;8250;10500;
+1;A;8000;Ole Johan
+1;B;4000;Erik Smith
+1;C;0;TOM HYBEL
+1;D;1000;Alan Turen
+1;E;0;TOM HYBEL
+1;F;0;TOM HYBEL
+2;A;1000;Torvald Linus
+2;B;0;TOM HYBEL
+2;C;2000;Bill Weitz
+2;D;4500;Tomas-Kristoffer W.
+2;E;-5500;Gunnar Syvertsen
+2;F;0;TOM HYBEL
+3;A;28000;James Goblin
+3;B;-8000;Hakon Hesla
+3;C;94000;Atle Skogstad
+3;D;0;TOM HYBEL
+3;E;4000;Eirik Isene
+3;F;-5000;Don Knut

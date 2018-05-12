@@ -1,0 +1,4 @@
+Feil i koden:
+     - Linje 3: integer skal være int 
+     - Linje 5: bredde og høyde blir aldri gitt en verdi
+     - Linje 5: volum blir aldri deklarert

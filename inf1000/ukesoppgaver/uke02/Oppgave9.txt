@@ -1,0 +1,9 @@
+Hva betyr feilmeldingene?
+
+a) En for lite klammeparantes
+b) Variabelnavn finnes ikke/er skrevet feil
+c) Variabelen har ingen verdi/muligens ingen verdi
+d) Mangler parantes
+e) variabelnavn finnes ikke/er skrevet feil
+f) funksjonsnavn finnes ikke/er skrevet feil
+g) ingen main funksjon finnes, da blir alt feil...

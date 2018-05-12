@@ -1,0 +1,21 @@
+Oppgave 3:
+
+a) 
+int[][] b = new int[3][4];
+Det er plass til 3 * 4 = 12 elementer i arrayen
+
+b)
+Indeksen til elementene i tredje kolonne er [0][2], [1][2] og [2][2]
+disse elementene får verdiene:
+[0][2] = 0
+[1][2] = 2
+[2][2] = 4
+
+c)
+Det skal stå følgende for å skrive ut slik som vist på kjøreeksempelet:
+System.out.println("b[" + i + "][" + j + "] = " + b[i][j]);
+
+d)
+Om man tenker for seg radene som kolonner og omvendt vil rekkefølgen på tallene bli:
+0, 0, 0, 0, 1, 2, 0, 2, 4, 0, 3, 6
+for da bytter man gjerne om på indeksene og

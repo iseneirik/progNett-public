@@ -1,0 +1,57 @@
+import java.util.*;
+class Personer {
+    public static void main(String[] args) {
+	HashMap <String, Person> register = new HashMap <String, Person> ();
+
+	Person p1 = new Person("Ida", 19);
+	Person p2 = new Person("Lars", 21);
+
+	register.put(p1.navn, p1);
+	register.put(p2.navn, p2);
+
+// a)
+	Person p = register.get("Ida");
+	System.out.println(p.navn + p.alder);
+	// Skriver ut "Ida19"
+
+// b)
+	for (String s : register.keySet()) {
+	    System.out.println(s);
+	}
+	// Skriver ut alle navn i HashMappen på separate linjer
+
+// c)
+	p1.alder = 24;
+	for (Person p3 : register.values()) {
+	    System.out.println(p3.navn + ":" + p3.alder);
+	}
+	// Skriver ut "Ida:24" og "Lars:21" på separate linjer
+
+// d)
+	if (register.containsValue(p2) && ! register.containsKey("Elin")) {
+	    System.out.println(true);
+	}
+	// Skriver ut "true"
+
+// e)
+	register.remove("Lars");
+	System.out.println(register.size() + " - " + register.isEmpty());
+	// Skriver ut "1 - false"
+
+// f)
+	System.out.println(register.remove("Ida") == null);
+	// Skriver ut true
+	System.out.println(register.remove("Ida") == null);
+	// Skriver ut false
+    }
+}
+
+class Person {
+    String navn;
+    int alder;
+
+    Person(String navn, int alder) {
+	this.navn = navn;
+	this.alder = alder;
+    }
+}

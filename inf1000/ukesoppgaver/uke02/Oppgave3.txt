@@ -1,0 +1,20 @@
+a) ja, x blir 4
+b) nei
+c) ja, x blir 4
+d) ja, z blir 0
+e) ja, x blir 5.7723
+f) ja, a blir 5.0
+g) ja, x blir 6.0
+h) nei
+i) nei
+j) nei
+k) ja, c blir &
+l) ja, a blir true
+m) ja, verdi blir false
+n) ja, a blir true
+o) ja, a blir true
+p) nei, a er ikke deklarert
+q) nei
+r) ja, t blir "hei på deg"
+s) ja, t blir "7.33"
+t) nei

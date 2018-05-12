@@ -1,0 +1,847 @@
+AA        Auto Answer
+AAB       All-to-All Broadcast
+AAL       Asynchronous Transfer Mode Adaption Layer
+AAP       Applications Access Point [DEC]
+AAS       All-to-All Scatter
+AASP      ASCII Asynchronous Support Package
+AAT       Average Access Time
+ABC       Atanasoff-Berry Computer  (First digital calculating machine that used vacuum tubes)
+ABEND     Abnormal End
+ABI       Application Binary Interface
+ABIOS     Advanced BIOS
+ABIST     Automatic Built-In Self-Test [IBM]
+ABLE      Adaptive Battery Life Extender
+ABR       Available Bit Rate
+ABRS      Automated Book Request System [British Library]
+ABS       Address Book Synchronization [IBM]
+ABS       Absolute
+ABT       Abort
+ABTS      ASCII Block Terminal Services
+AC        Autocheck  
+AC 	  Automatic Computer  
+AC        Alternating Current
+ACAP      Application Configuration Access Protocol
+ACC       Accumulator
+ACCMAIL   Accessing the Internet Via Email
+ACD       Automatic Call Distribution
+ACDI      Asynchronous Communications Device Interface
+ACE       Access Control Entry 
+ACE       Advanced Computing Environment [SCO] 
+ACE       Adverse Channel Enhancements [Microcom] 
+ACE       Automatic Computing Engine
+ACF       Access Control Field 
+ACF       Advanced Communications Function
+ACH       Automated Clearing House
+ACIAS     Automated Calibration Interval Analysis System
+ACIS      American Committee for Interoperable Systems
+ACK       Acknowledgment
+ACL       Access Control List
+ACM       Association for Computing Machinery
+acm       Audio Compression Manager [Microsoft]
+ACMS      Application Control Management System
+ACP       Ancillary Control Program 
+ACP       Auxilary Control Process
+ACPI      Advanced Configuration and Power Interface
+ACR       Allowed Cell Rate
+ACROSS    Automated Cargo Release and Operations Service System
+ACS       Access  
+ACS 	  Access Control Set 
+ACS       Acccess Control System 
+ACS       Advanced Computer System [IBM] 
+ACS       Anti Curl System 
+ACS       Asynchronous Communication Server
+ACTS      Automated Computer Time Service
+ACTT      Advanced Communication and Timekeeping Technology [Seiko]
+ACU       Automatic Calling Unit
+A/D       Analog to Digital
+ADA       Automatic Data Acquisitions 
+ADA       Programming Language named after Augusta Ada Lovelace
+ADB       Apple Desktop Bus
+ADC       Adaptive Data Compression (protocol) [Hayes] 
+ADC       Add with Carry  
+ADC       Analog to Digital Converter
+ADCCP     Advanced Data Communication Control Procedures
+ADD       Automatic Document Detection [WordPerfect]
+ADF       Automatic Document Feeder 
+ADF       Automatically Defined Function
+.ADF      Adapter Description File (file name extension)
+ADI       AutoCad/AutoDesk Device Interface (driver)
+ADL       Address Data Latch
+ADLAT     Adaptive Lattice Filter
+ADLC      Adaptive Lossless Data Compression [IBM] 
+ADLC      Asynchronous Data Link Control
+ADMACS    Apple Document Mangagement And Conrol System
+ADMD      Administrative Management Domain [X.400]
+.ADN      Add In Utility (file name extension) [Lotus 1-2-3] [LDC]
+ADO       Active Data Objects
+ADP       Automatic Data Processing
+ADPCM     Adaptive Differential Pulse Code Modulation
+ADR       Address
+ADS       Application Development Solutions [AT&amp;T] 
+ADS       Application Development System 
+ADS       Automatic Distribution System
+ADSC      Address Status Changed 
+ADSC      Adobe Document Structuring Conventions
+ADSI      Active Directory Service Interface [Microsoft] 
+ADSI      Analog Display Services Interface
+ADSL      Asymmetric Digital Subscriber Line
+ADSP      Apple Datastream Protocol
+ADSR      Attack, Decay, Sustain, Release
+ADT       Abstract Data Type  
+ADT       Application Data Types
+ADU       Automatic Dialing Unit
+AE        Above or Equal
+AEB       Analog Expansion Bus [Dialogic]
+AEC       Architecture, Engineering, Construction
+AESA      ATM End System Address
+AF        Auxiliary carry Flag
+AFA       Accelerated File Access
+AFC       Automatic Font Change  
+AFC       Automatic Frequency Control
+AFD       Automatic File Distribution
+AFDW      Active Framework for Data Warehousing [Microsoft]
+AFI       Authority and Format Identifier
+AFII      Association for Font Information Interchange
+AFIRM     Automated Fingerprint Image Reporting and Match
+AFIS      Automated Fingerprint Identification System
+.AFM      Adobe Font Metrics (file name extension) [Adobe Systems]
+AFP       Advanced Function Presentation [IBM] 
+AFP       Appletalk Filing Protocol [Macintosh]
+AFS       Andrew File System (protocols)
+AFTP      Anonymous File Transfer Protocol
+AGA       Advanced Graphics Adapter
+AGC       Automatic Gain Control
+AGP       Accelerated/Advanced Graphics Port
+AGRAS     Antiglare-Antireflective-Antistatic
+AGU       Address-Generation Unit
+AHS       Automated Highway Systems
+AI        Analog Input  
+AI 	  Artificial Intelligence
+AIA       Applications Integration Architecture [DEC]
+AIC       AIXwindows Interface Composer [IBM]
+AIF       Audio Interchange Format
+AIIM      Association for Information and Image Management
+AIN       Advanced Intelligent Network [Bell Atlantic]
+AIS       Automated Identification System [NCIC]
+AISB      Association of Imaging Service Bureaus
+AISP      Association of Information Systems Professionals
+AIT       Advanced Intelligent Tape (drive) [Sony]
+AIX       Advanced Interactive Executive [IBM]
+ALC       Arithmetic and Logic Circuits 
+ALC       Automatic Level Control
+ALE       Address Latch Enable 
+ALE       Application Linking and Embedding
+ALGOL     Algorithmic Oriented Language (see IAL)
+ALIBI     Adaptive Location of Internetworked Bases of Information
+ALINK     Active Link [HTML]
+ALIWEB    Archie Like Indexing in the Web [Internet]
+ALN       Asynchronous Learning Network
+ALR       Advanced Logic Research, Inc.
+ALT       Alternate (mode)
+ALT.      Alternate lifestyle [USENET Newsgroup Category]
+ALU       Arithmetic Logic Unit
+AMA       Automatic Message Accounting
+AMANDDA   Automated Messaging and Directory Assistance
+AMD       Active Matrix Display 
+AMD       Advanced Micro Devices, Inc.
+AMI       American Megatrends, Inc.
+AMMA      Advanced Memory Management Architecture [Everex Systems]
+AMPS      Advanced Mobile Phone Service
+ANCOVA    Analysis of Covariance
+ANDF      Architecture-Neutral Distribution Format
+ANI       Automatic Number Identification
+.ANI      Animated Cursor (file name extension) [Microsoft]
+ANN       Artificial Neural Network
+.ANN      Annotations (file name extension) [IBM]
+ANOVA     Analysis Of Variance
+ANSI      American National Standards Institute
+ANX       Automotive Network Exchange [Chrysler/Ford/General Motors]
+AO        Analog Output
+AOCE      Apple Open Collaboration Environment
+AO/DI     Always On/Dynamic ISDN
+AOE       Application Operating Environment [AT&amp;T]
+AOL       America Online
+AOS       Add Or Subtract
+AP        Adjunct Processor  
+AP 	  Application Processor
+A/P       Accounts Payable
+APA       Adaptive Packet Assembly 
+APA       All Points Addressable 
+APA       Arithmetic Processing Accelerator
+APAR      Authorized Program Analysis Report [IBM]
+APAREN    Address Parity Enable [IBM]
+APCUG     Association of PC User Groups
+API       Application Program Interface
+APIC      Advanced Programmable Interrupt Controller (bus) [Intel]
+APIS      Advanced Passenger Information System
+APL       A Programming Language (Mathematics)
+APM       Advanced Power Management [IBM]
+APNIC     Asia-Pacific Network Information Center [Internet]
+APOP      Authenticated Post Office Protocol
+.APP      Application (file name extension) [R:Base]
+APPC      Advanced Program-to-Program Communications [IBM]
+APPI      Advanced Peer-to-Peer Internetworking
+APPLETS   Applications
+APPN      Advanced Peer-to-Peer Networking [IBM]
+APPS      Applications
+APRP      Adaptive Pattern Recognition Processing
+APS       Advanced Photo System  
+APS       Advanced Printing Service [IBM]
+APS       Asynchronous Protocol Specification
+APSE      ADA Programming Support Environment
+APT       Address Pass Through 
+APT       Advanced Parallel Technology 
+APT       Automatically Programmed Tools
+A/R       Accounts Receivable
+ARA       AppleTalk Remote Access
+ARAG      Antireflective-Antiglare
+ARAS      Antireflective-Antistatic
+.ARC      Archive (file name extension)
+ARCA      Advanced RISC Computing Architecture
+ARCnet    Attached Resource Computer Network
+.ARJ      Compressed File (file name extension) [Jung]
+ARL       Adjusted Ring Length
+ARLL      Advanced Run Length Limited
+ARM       Advanced RISC Machine (processor) 
+ARM       Annotated Reference Manual 
+ARM       Asynchronous Response Mode
+ARMA      Association of Records Managers and Administrators
+ARP       Address Resolution Protocol [Novell]
+ARPANET   Advanced Research Projects Agency Network
+ARPL      Adjust Requested Privilege Level
+ARTA      Apple Real Time Architecture
+ARTIC     A Real-Time Interface Coprocessor [IBM]
+ARTS      Asynchronous Remote Takeover Server
+.ARTS     Cultual Groups (Domain Name) [Internet]
+ARTT      Asynchronous Remote Takeover Terminal
+ARQ       Automatic Repeat Request
+ARU       Audio Response Unit
+AS        Autonomous System [Internet]
+ASAI      Adjunct Switch Application Interface [AT&amp;T]
+ASAP      As Soon As Possible 
+AAP       Automatic Switching And Processing
+AS3AP     ANSI SQL Standard Scalable and Portable
+.ASC      ASCII text (file name extension)
+ASCC      Automatic Sequence Controlled Calculator [IBM]
+ASCII     American Standard Code for Information Interchange
+ASF       Active Streaming Format [Microsoft]
+ASIC      Application-Specific Integrated Circuit
+ASIT      Advanced Security and Identification Technology
+ASL       Adaptive Speed Levelling
+ASLM      Apple Shared Library Manager [Macintosh]
+.ASM      Assembler Source Language (file name extension)
+ASMP      Asymmetric Multprocessing
+ASN       Abstract Syntax Notation  
+ASN 	  Autonomous System Number
+ASO       Automated Systems Operations
+ASP       Active Server Page [Microsoft] 
+ASP       Authorized Service Provider 
+ASP       Association of Shareware Professionals
+.ASP      Active Server Page (file name extension)
+ASPI      Advanced SCSI Programming Interface [Adaptec]
+ASPS      Advanced Signal Processing System
+ASR       Address Space Register  
+ASR 	  Automatic Send-Receive 
+ASR       Automatic Speech Recognition
+AST       AST Research, Inc. (named from first initials of the founders: Albert Wong, Safi Qureshey, Thomas Yuen)
+AS/U      Advanced Server for Unix
+ASYNC     Asynchronous
+AS/400    Application System/400 [IBM]
+AT        Advanced Technology  
+AT 	  Attention
+ATAPI     Advanced Technology Attachment Packet Interface
+ATDP      Attention Dial Pulse
+ATDT      Attention Dial Tone
+ATE       Automated Test Equipment
+ATG       Advanced Technology Group
+ATH       Attention Hang-Up (Modem command)
+ATL       Active Template Library
+ATM       Adobe Typeface Manager  
+ATM       Asynchronous Transfer Mode 
+ATM       Automated Teller Machine
+ATPS      AppleTalk Printing Services [Macintosh]
+ATR       Automatic Terminal Recognition
+ATS       Administrative Terminal System 
+ATS       Apple Terminal Services
+AT&T      American Telephone and Telegraph
+ATTN      Attention
+ATTRIB    Attribute (also ATR)
+ATX       Advanced Technology Extended [Intel]
+ATZ       Attention Restore configuration profile from nonvolatile RAM (Modem command)
+.AU       Audio (file name extension)
+AUDIT     Automated Data Input Terminal
+AUI       Attachment/Autonomous Unit Interface
+AUP       Acceptable Use Policy [Internet]
+AUTO      Automatic
+AUTOEXEC  Automatic Execution
+AUX       Auxiliary 
+AV        Audio/Video  
+AV        Audiovisual  
+AV        Authenticity Verification
+AVA       Audio Visual Authoring [IBM]
+AVC       Audio Visual Connection [IBM]
+AVD       Alternating Voice and Data
+AVG       Average
+AVI       Audio Visual Interleave [Microsoft]
+AVR       Automatic Voice Recognition
+AVT       Applied Voice Technology
+AWE       Advanced Wave Effects [Creative Lab]
+AWG       American Wire Gage
+AWK       (Unix language named after its authors:Al Aho, Peter Weinberger and Brian Kernighan)
+AWS       Advanced Workstations and Systems (group) [IBM]
+AWT       Abstract Window Toolkit [Java]
+AX        Architecture Extended  
+AX 	  Automatic Transmission
+BACP      Bandwidth Allocation Control Protocol
+BAK       Binary Adaptation Kit [Microsoft]
+.BAK      Backup (file name extension)
+BAL       Basic Assembly Language
+BALUN     Balanced Unbalanced (device)
+BAM       Boyan Action Module
+BAPI      Business Application Programming Interface [SAP]
+BARTS     Bell Atlantic Regional Timesharing
+.BAS      Basic Language (file name extension)
+BASH      Bourne Again Shell [Unix]
+BASIC     Beginner's All-purpose Symbolic Instruction Code
+BASM      Built-In Assembler
+BAT       Block Address Translation
+.BAT      Batch Processing (file name extension)
+BBS       Bulletin Board System
+BCC       Block Check Character
+BCC:      Blind Carbon Copy
+BCD       Binary Coded Decimal
+B-CHANNEL Bearer Channel
+BCL       Batch Command Language
+BCN       Beacon
+BCP       Best Current Practice  
+BCP       Bulk Copy Program
+BCPL      Basic Computer Programming Language
+BCR       Byte Count Register
+BCS       Bar Code Sorter
+BDA       Bios Data Area
+BDC       Backup Domain Controller
+BDE       Borland Database Engine [Borland]
+BDLS      Bidirectional Loop Switching
+BDOS      Basic Disk Operating System
+BDR       Bus Device Request
+BDSL      Broadband ADSL
+BE        Below or Equal
+BECN      Backward Explicit Congestion Notification
+BEDO      Burst Extended Data Out
+BEL       Bell
+BELLCORE  Bell Communications Research
+BER       Basic Encoding Rules  
+BER       Bit Error Rate
+BERT      Bit Error Rate Test/Tester
+BF        Bad Flag
+B/F       Background/Foreground
+BFF       Binary File Format [IBM]
+BFT       Binary File Transfer
+BFTP      Batch FTP
+BGA       Ball Grid Array
+BGCOLOR   Background Color [HTML]
+BGE       Branch if Greater or Equal
+.BGI      Borland Graphic Interface (file name extension)
+BGP       Border Gateway Protocol
+BGT       Branch if Greater Than
+BHI       Branch if Higher
+BHIS      Branch if Higher or Same
+BI        Binary Input
+.BIB      Bibliography (file name extension)
+BiDi      Bi-Directional
+BIFET     Bipolar Field Effect Transistor
+BIFF      Binary Interchange File Format
+BIM       Beginning of Information Marker
+.BIN      Binary (file name extension)
+BINAC     Binary Automatic Computer
+BIND      Berkeley Internet Name Domain
+BINHEX    Binary Hexadecimal
+BIOS      Basic Input/Output System
+BIS       Business Information System
+BISDN     Broadband Integrated Services Digital Network
+BIST      Built-In Self-Test
+BiSYNC    (See BSYNC)
+BIT       Binary Digit
+BITNET    Because It's Time Network
+BITNIC    Bitnet Network Information Center
+BIU       Bus Interface Unit
+BIW       Business Intelligence Warehouse [SAP]
+BIX       Byte Information Exchange (BBS)
+BIZ.      Business [USENET Newsgroup Category]
+.BK!      Backup (file name extension) [WordPerfect]
+.B~K      Backup (file name extension)
+BKSP      Backspace
+BL        Backlit  
+BL        Bit Line
+BL        British Library
+BLAST     Blocked Asynchronous Transmission (protocol) [Communications Research Group]
+.BLD      BASIC Bload Graphics (file name extension)
+BLE       Branch if Less or Equal
+BLER      Block Error
+BLK       Block
+BLMC      Buried Logic Macrocell
+BLOB      Binary Large Object
+BLOS      Branch if Lower Or Same
+BMI       Branch if Minus
+BMIC      BusMaster Interface Controller [Intel]
+BMP       Basic Mapping Support  
+BMP 	  Batch Message Processing Program
+.BMP      Bitmap (file name extension) [Paintbrush Format]
+BNC       Bayonet Neill-Concelman (connector used with coaxial cable invented by Mr. Neill-Concelman)
+BNE       Branch if Not Equal
+BNF       Backus-Naur Form (also Backus-Normal Form) [developed by John Backus and Peter Naur]
+BNS       Backbone Network Service
+BO        Binary Output
+BoB       Break-out Box
+BOC       Basic Operator Console
+BOF       Beginning Of File
+BOM       Beginning Of Message
+BOND      Bandwidth On Demand
+BOOTP     Bootstrap Protocol [Internet]
+BOPS      Billion Operations Per Second
+BORPQU    Borland Pro Quattro
+BORQU     Borland Quattro
+BOS       Basic Operating System
+BOT       Beginning Of Table  
+BOT       Beginning of Tape  
+BOT       Robot
+BP        Base Pointer
+BPB       BIOS Parameter Block
+BPDU      Bridge Protocol Data Unit
+BPI       Bits Per Inch
+BPL       Branch if Plus
+BPS       Bits Per Second  
+BPS       Bytes Per Second
+BPSK      Binary Phase Shift Keying
+BR        Bad Register
+BRGC      Binary Reflected Gray Code
+BRI       Basic Rate Interface  
+BRI       Brain Response Interface
+BS        Backspace
+BSAM      Basic Sequential Access Method
+BSC       Binary Synchronous Communication
+.BSC      Boyan Script (file name extension) [Boyan Communications]
+BSCS      Bachelor of Science (Degree) in Computer Science
+BSD       Berkely Software/Standard Distribution
+BSF       Bit Scan Forward
+BSI       British Standards Institute
+BSP       Bulk Synchronous Parallelism
+BSR       Bit Scan Reverse
+BS-RAM    Burst Static RAM
+BSS       Block Started by Symbol
+BSV       BASIC Bsave Graphics (file name extension)
+BSY       Busy
+BSYNC     Binary Synchronous Communications (protocol)
+BT        Bit Test
+BTAM      Basic Telecommunications Access Method [IBM]
+BTB       Branch Target Buffer
+BTC       Bit Test and Complement
+BTOA      Binary To ASCII
+BTP       Batch Transfer Program
+BTR       Bit Test and Reset
+BTS       Bit Test and Set
+BU        Branch Unit
+BUBL      Bulletin Board for Libraries [Janet]
+BUF       Buffer
+BUS       Broadcast and Unknown Server
+BVH       Base Video Handler
+BWM       Block-Write Mode
+B2X       Binary To Hexadecimal [REXX]
+BYTE      Binary Element String
+C         C Programming Language
+.C        C source code (file name extension) [C]
+CA        Collision  Avoidance
+.CAB      Cabinet (file name extension) [Microsoft]
+CAD       Computer Aided Design
+CADD      Computer Aided Design and Drafting
+CADE      Client/server Application Development Environment
+CAE       Client Application Enabler 
+CAE       Common Applications Environment  
+CAE       Computer Aided Engineering
+CAEX      Computer Aided Exploration
+CAG       Column Address Generator
+CAI       Computer Aided Instruction
+CAIRN     Collaborative Advanced Interagency Research Network
+CAL       Calendar  
+CAL 	  Client Access License 
+CAL       Computer Aided Learning
+CALS      Computer-Aided Acquisition in Logistic Support
+CAM       Common Access Method  
+CAM       Computer Aided Manufacturing 
+CAM       Contents Addressable Memory
+CAN       Cancel
+CAP       Carrierless Amplitude and Phase-Modulation 
+CAP       Central Arbitration Point 
+CAP       Communication Application Platform 
+CAP       Competitive Access Provider 
+CAP       Computer Aided Publishing
+.CAP      Capture (file name extension)
+CAPD      Computing To Assist Persons With Disabilities [Johns Hopkins University]
+CAPE      Concurrent Art-to-Product Environment
+CAPS      Capitals (Upper Case Letters) 
+CAPS      Cassette Programming System
+CARL      Colorado Alliance of Research Libraries [Internet]
+CAS       Column Address Select 
+CAS       Communications Application Specification 
+CAS       Computer Aided Styling
+CASE      Computer Aided Software Engineering
+CASL      Crosstalk Application Scripting Language [DCA]
+CASS      Computer Assisted Search Service
+CASSIS    Classified and Search Support Information System
+CAT       Computer Adaptive Test  
+CAT       Computer Aided Testing 
+CAT       Computer Aided Tomography 
+CAT       Computer Aided Transcription  
+CAT       Concatenate
+.CAT      Catalog (file name extension)
+CATS      Computer Assisted Training System
+CAT SCAN  Computerized Axial Tomography Scan
+CATV      Community Antenna Television (this was the original name for what is now known as Cable TV)
+CAU       Controlled Access Unit
+CAV       Constant Angular Velocity
+CAVE      Computer Automatic Virtual Environment
+CBC       Cipher Block Chaining
+CBCR      Channel Byte Count Register
+CBDS      Connectionless Broadband Data Service
+CBEMA     Computer and Business Equipment Manufacturers Association
+CBGA      Ceramic Ball Grid Array
+CBI       Computer Based Instruction\Instrumentation
+CBL       Computer Based Learning
+.CBL      COBOL source code (file name extension)
+CBMS      Computer-Based Mail System
+CBR       Case Based Reasoning  
+CBR       Constant Bit Rate
+CBT       Computer Based Training
+CBW       Convert Byte to Word
+CBX       Computer-Controlled Branch Exchange
+CC        Cluster Controller
+CC:       Carbon Copy
+CCD       Charged-Coupled Device
+CCFT      Cold Cathode Fluorescent Tube
+CCI       Common Client Interface
+CCITT     Comite Consultatif International Telegraphique et Telephonique/ Consultative Committee for International Telegraph and Telephone
+CCL       Connection/Cursor Control Language
+CCP       Console Command Processor
+CCS       Common Command Set  
+CCS       Common Communications Services 
+CCS       Common Communications Support 
+CCS       Continuous Composite Servo
+.CCS      Color Calibration System (file name extension)
+CCSD      Cellular Circuit-Switched Data
+CD        Carrier Detect  
+CD        Change Directory 
+CD        Collision Detection  
+CD        Color Display  
+CD        Compact Disk
+C/D       Control Data
+C2D       Character To Decimal [REXX]
+CDA       Compound Document Architecture [DEC]
+CDBT      Compact Disk-Based Training
+CDC       Control Data Corporation
+CD_CHRDY  Card Channel Ready [IBM]
+CD-DA     Compact Disk -Digital Audio
+CDDI      Copper Distributed Data Interface
+CDE       Common Desktop Environment  
+CDE       Complex Data Entry
+CD-E      Compact Disk - Erasable
+CDF       Channel Definition Format
+.CDF      Comma Delimited Format (file name extension)
+CDFS      Compact Disc File System [Microsoft]
+CD+G      Compact Disk plus Graphics
+CD-I      Compact Disk - Interactive
+CDIA      Certified Document Imaging Architect
+CDL       Computer Design Language
+CDMA      Code Division Multiple Access
+CDMF      Commercial Data Masking Facility [IBM]
+CD-MO     Compact Disk - Magneto Optical
+CDOS      Concurrent Disk Operating System
+CDPD      Cellular Digital Packet Data
+CDR       Call Detail Record  
+CDR       Call Detail Recording 
+CDR       Common Data Representation
+CD-R      Compact Disk - Recordable
+CDRAM     Cache DRAM
+CD-RDx    Compact Disk - Read Only Memory Data Exchange Standard
+CDRL      Contract Data Requirements List
+CD-ROM    Compact Disk - Read Only Memory
+CD-RTOS   Compact Disk - Real Time Operating System
+CD-RW     Compact Disk - Re-Writable
+CDS       Current Directory Structure
+CDSA      Common Data Security Architecture
+CDSL      Consumer Digital Subscriber Line [Rockwell]
+.CDT      Corel Draw Template (file name extension)
+CD-V      Compact Disk - Video
+CD-WO     Compact Disk - Write Once
+.CDX      Compound Index (file name extension) [Fox Pro]
+CD-XA     Compact Disk - Extended Architecture
+CE        Cache Enable  
+CE        Chip Enable  
+CE        Collision Elimination 
+CE        Convert Enable
+CEG       Continuous Edge Graphics
+CEI       Conducted Electromagnetic Interference
+CELP      Card Edge Low Profile (socket) [Intel]
+CEMS      Constituent Electronic Mail System
+CEOP      Conditional End Of Page
+CER       Canonical Encoding Rules
+CERN      Conseil European pour la Recherche Nucleaire
+CERT      Computer Emergency Response Team
+CFB       Cipher Feedback  
+CFB       Configurable Function Block
+.CFG      Configuration (file name extension)
+CFM       Code Fragment Manager [Macintosh] 
+CFM       Cubic Feet Per Minute
+CFR       Computerized Facial Recognition
+CFS       Caching/Common File System
+CFV       Call For Votes [Bitnet]
+CG        Control Gate
+CGA       Color Graphics Adapter
+CGE       Common Graphics Environment
+CGI       Computer Generated Images  
+CGI 	  Computer Graphics Interface
+CGI-BIN   Common Gateway Interface - Binary
+.CGM      Computer Graphics Metafile (file name extension) 
+CGS       Continuous-Grain Silicon
+CHAP      Challenge-Handshake Authentication Protocol
+CHAR      Character
+CHAT      Conversational Hypertext Access Technology [Internet]
+CHCK      Channel Check
+CHCP      Change Code Page
+CHDIR     Change Directory
+CHFN      Change Finger [Unix]
+CHGRP     Change Group
+.CHK      CHKDSK (file name extension)
+CHKDSK    Check Disk
+CHMOD     Change Mode
+CHOWN     Change Owner
+CHP       Chapter
+CHR       Character
+CHRP      Common Hardware Reference Platform
+CHS       Cylinder Head Sector
+CI        Component Interface
+CIA       Current Instruction Address
+CIAC      Computer Incident Advisory Capability
+CICS/VS   Customer Information Control System/Virtual Storage [IBM]
+CID       Charge-Injection Device 
+CID       Configuration/Installation/Distribution
+CIDR      Classless Inter-Domain Routing
+CIF       Common Interchange/Intermediate Format 
+CIF       Crystallographic Information File 
+CIF       Customer Information Feed
+CIFS      Common Internet File System
+CIM       Common Information Model 
+CIM       CompuServe Information Manager 
+CIM       Computer Integrated Manufacturing
+CIO       Chief Information Officer
+CIOCS     Communication Input/Output Control System
+CIP       Command Interface Port  
+CIP       Common Indexing Protocol
+CIR       Committed Information Rate
+CIRC      Circular Reference 
+CIRC      Cross-Interleaved Reed-Solomon Code
+CIS       Card Information Structure  
+CIS       Client Information System 
+CIS       CompuServe Information Service 
+CIS       Computer Information Systems  
+CIS       Contact Image Sensor 
+CIS       Customer Information System
+CISC      Complex Instruction Set Computing
+CIT       Computer-Integrated Telephony
+CIVR      Computer and Interactive Voice Response
+CIX       Commercial Internet Exchange 
+CIX       Compulink Information Exchange
+CJLI      Command Job Language Interpreter
+CKD       Count Key Data (device)
+CLAR      Channel Local Address Register
+CLASS     Client Access to Systems and Services 
+CLASS     Cooperative Library Agency for Systems and Services 
+CLASS     Custom Local-Area Signaling Services
+CLC       Clear Carry Flag
+CLD       Clear Direction Flag
+CLI       Call-Level Interface  
+CLI       Clear Interrupt Flag 
+CLI       Client Library Interface  
+CLI 	  Command Line Interface
+CLIB      C Library
+CLID      Calling Line Identification
+CLIST     Command List
+CLK       Clock
+CLNP      Connectionless Network Protocol
+CLOS      Common Lisp Object System
+CLP       Cell Loss Priority  
+CLP 	  Constraint Logic Programming
+.CLP      Clipboard (file name extension) [Windows]
+CLS       Clear Screen
+CLTP      Connectionless Transport Protocol
+CLTS      Clear Task Switch Flag
+CLTV      Constant Linear Time Velocity
+CLUI      Command Line User Interface
+CLUT      Color Look-Up Table
+CLV       Constant Linear Velocity
+CM        Centimeter  
+CM 	  Control Mark  
+CM 	  Corrective Maintenance
+CMA       Concert Multi-thread Architecture
+CMC       Common Mail Calls  
+CMC 	  Common Messaging Calls 
+CMC       Communication Management Configuration 
+CMC       Complement Carry Flag 
+CMC       Computer-Mediated Communication [Internet]
+CMD       Circuit Mode Data
+.CMD      Command (file name extension)
+CMF       Creative Music Format
+CNIDR     Clearinghouse for Network Information and Discovery and Retrieval [Internet]
+CMIP      Common Management Information Protocol
+CMIS      Common Management Information Services/System
+CML       Conceptual Modelling Language 
+CML       Computer Managed Learning  
+CML 	  Current Mode Logic
+CMM       Capability Maturity Model
+CMMS      Computerized Maintenance Management Software
+CMMU      Cache/Memory Management Unit [Motorola]
+CMOS      Complementary Metal-Oxide Semiconductor
+CMOV      Conditional Move
+CMP       Compare
+CMPS      Compare word String
+CMS       Code Management System  
+CMS 	  Compiler Monitor System 
+CMS       Conversation Monitor System
+CMVC      Configuration Management Version Control [IBM]
+CMW       Compartmented Mode Workstation
+CMY       Cyan-Magenta-Yellow (color model)
+CMYK      Cyan-Magenta-Yellow-Black (color model)
+CNA       Certified NetWare Administrator [Novell]
+CNAPS     Co-Processing Node Architecture for Parallel Systems
+CNC       Computerized Numerical Control
+CNE       Certified NetWare Engineer
+.CNF      Configuration (file name extension)
+CNG       Calling (tone)
+CNI       Certified Novell Instructor [Novell]
+CNIDR     Clearinghouse for Networked Information and Retrieval
+CNN       Composite Network Node
+CNR       Carier to Noise Ratio
+CNSS      Core Nodal Switching Subsystem [Internet]
+.CNT      Contents (file name extension)
+CNV       Conventional (pertaining to Memory)
+CNVT      Convert
+CNX       Certified Network Expert
+CO        Central Office  
+CO 	  Command Output  
+CO 	  Convert Out
+COAST     Card On A Stick (module)
+COAX      Coaxial Cable
+COB       Chip-On-Board
+.COB      COBOL source code (file name extension)
+COBOL     Common Business-oriented Language (See HLL)
+.COD      Code List (file name extension)
+CODASYL   Conference on Data System Languages (Group that designed COBOL)
+CODE      Client-Server Open Development Environment
+CODEC     Coder/Decoder  
+CODEC 	  Compression/Decompression
+COEM      Commercial Original Equipment Manufacturer
+COFF      Common Object File Format [Unix]
+COGO      Coordinate Geometry (Programming Language)
+COL       Collision  
+COL 	  Computer Oriented Language
+COLD      Computer Output to Laser Disk
+COLL      Collision
+COM       Component Object Model [Microsoft] 
+COM       Computer Output Microfilm
+.COM      Command (file name extension) 
+.COM      Commercial Business (Domain Name) [Internet]
+COM1      First serial Port (asynchronous port)
+COM2      Second serial Port
+COM3      Third serial Port
+COM4      Fourth serial Port
+COMDEX    Computer Dealers Exposition
+COMET     Cornell Macintosh Terminal Emulator
+COMP      Compare
+COMP.     Computers [USENET Newsgroup Category]
+COMSAT    Communications Satellite Corporation
+CON       Console (includes Keyboard and Screen)
+COND      Condition
+CONFIG    Configuration
+CONS      Connection-Oriented Network Service
+CONTONE   Continuous Tone
+COPICS    Communications Oriented Production Information and Control System [IBM]
+COR       Common Object Runtime
+CORBA     Common Object Request Broker Architecture
+CoREN     Corporation for Research and Enterprise Network
+COS       Compatible Operating System
+COSE      Combined Office Standard Environment 
+COSE      Common Open Software/Systems Environment
+COSMIC    Computer Software Management and Information Center [NASA]
+COSMOS    Computer System for Mainframe Operations
+COSS      Common Object Services Specification
+COTS      Commercial Off-The-Shelf
+CP        Copy Protected
+CPA       Certified Public Accountant
+CPC       Constant Point Calculation
+CPCS      Check Processing Control System [IBM]
+CPE       Central Processing Element 
+CPE       Customer Premises Equipment 
+CPE       Customer Provided Equipment
+.CPE      Cover Page (file name extension)
+CPG       Clock Pulse Generator
+CPI       Characters Per Inch  
+CPI 	  Clock Per Instruction 
+CPI       Common Programming Interface [IBM]
+.CPI      Code Page Information (file name extension) [MS-DOS]
+CPI-C     Common Programming Interface for Communications [IBM]
+CPIO      Copy In and Out [Unix]
+CPL       Current Privilege Level
+.CPL      Control Panel (file name extension)
+CPLD      Complex Programmable Logic Device
+CPM       Critical Path Method
+CP/M      Control Program for Microcomputers [Digital Research]
+CPS       Characters Per Second  
+CPS 	  Cycles Per Second
+CPT       Command Pass Through
+CPU       Central Processing Unit
+CPW       Commercial Processing Workload [IBM]
+CR        Carriage Return
+CRAM      Cyberspatial Reality Advancement Movement
+CRAYON    Create Your Own Newspaper
+CRC       Cyclic Redundancy Check
+.CRD      Cardfile (file name extension) 
+.CRD      Chord (music file name extension)
+CREN      Computer Research Education Network 
+CREN      Corporation for Research and Education Networking
+CRF       Cable Retransmission Facility  
+CRF 	  Cross Reference File
+CRI       Color Reproduction Indices
+CR/LF     Carriage Return/Line Feed
+CROM      Control Read Only Memory
+CRT       Cathode Ray Tube
+CRTC      CRT Controller
+CRUD      Create, Retrieve, Update, Delete
+CS        Chip Select  
+CS 	  Clear to Send  
+CS 	  Code Segment
+C/S       Client/Server
+CSA       Calendaring and Scheduling API [IBM]
+CSAR      Channel System Address Register
+CSCW      Computer Supported Cooperative Work
+CSD       Circuit-Switched Data 
+CSD       Computer Services Department 
+CSD       Corrective Service Diskette [IBM]
+CSDS      Circuit Switched Data Service
+CSE       Certified System Engineer
+CSFI      Communication Subsystem For Interconnection
+CSG       Constructive Solid Geometry 
+CSG       Consulting Services Group [Lotus]
+CSI       Command Sequence Introducer  
+CSI 	  CompuServe Incorporated
+CSID      Call Subscriber ID
+CSL       Computer Sensitive Language
+CSLIP     Compressed Serial Line Interface Protocol [Internet]
+CSM       Code Set Map (file)  
+CSM 	  Communications Services Manager
+CSMA/CA   Carrier Sense Multiple Access/with Collision Avoidance
+CSMA/CD   Carrier Sense Multiple Access/with Collision Detection
+FN 	  Forente nasjoner
+EU 	  Europaunionen
+SAS 	  Scandinavian Airlines System
+HTTP 	  Hypertext transfer protocol
+AA 	  Anonyme alkoholikere
+

@@ -1,0 +1,5 @@
+Oppgave 3:
+
+1) Ikke lovlig, variabel deklarert inni en annen "scope" enn den brukes
+2) Ikke lovlig, variabel deklarert inni en annen "scope" enn den brukes
+3) Lovlig
