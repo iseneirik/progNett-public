@@ -1,0 +1,72 @@
+## Half Adder
+
+Tar inn to bits og sender ut summen og carry av resultatet
+
+Sum: (X inn) XOR (Y inn)
+Cout: (X inn) * (Y inn)
+
+X Y | Sum | Cout
+----+-----+------
+0 0 |  0  |  0
+0 1 |  1  |  0
+1 0 |  1  |  0
+1 1 |  0  |  1
+_____________________________________________________________
+
+## Full Adder
+
+Tar inn tre bits og sender ut summen og carry av resultatet
+
+Sum: ((X inn) XOR (Y inn)) XOR (C inn)
+Cout: ((X inn) * (Y inn)) + ((X inn) * (C inn)) + ((Y inn) * (C inn))
+
+X Y C | Sum | Cout
+------+-----+------
+0 0 0 |  0  |  0
+0 0 1 |  1  |  0
+0 1 0 |	 1  |  0
+0 1 1 |  0  |  1
+1 0 0 |  1  |  0
+1 0 1 |  0  |  1
+1 1 0 |  0  |  1
+1 1 1 |  1  |  1
+______________________________________________________________
+
+## Multiply 10
+
+Tar inn fire bits (Inn) og sender ut et åtte bits (Out) som representerer
+(Inn) ganget med 10.
+
+   Inn   |       Out       |
+---------+-----------------+
+ 0 0 0 0 | 0 0 0 0 0 0 0 0 |
+ 0 0 0 1 | 0 0 0 0 1 0 1 0 |
+ 0 0 1 0 | 0 0 0 1 0 1 0 0 |
+ 0 0 1 1 | 0 0 0 1 1 1 1 0 |
+ 0 1 0 0 | 0 0 1 0 1 0 0 0 |
+ 0 1 0 1 | 0 0 1 1 0 0 1 0 |
+ 0 1 1 0 | 0 0 1 1 1 1 0 0 |
+ 0 1 1 1 | 0 1 0 0 0 1 1 0 |
+ 1 0 0 0 | 0 1 0 1 0 0 0 0 |
+ 1 0 0 1 | 0 1 0 1 1 0 1 0 |
+ 1 0 1 0 | 0 1 1 0 0 1 0 0 |
+ 1 0 1 1 | 0 1 1 0 1 1 1 0 |
+ 1 1 0 0 | 0 1 1 1 1 0 0 0 |
+ 1 1 0 1 | 1 0 0 0 0 0 1 0 |
+ 1 1 1 0 | 1 0 0 0 1 1 0 0 |
+ 1 1 1 1 | 1 0 0 1 0 1 1 0 |
+_______________________________________________________________
+
+## Make Negative
+
+Tar inn åtte bits (Inn) og et enkelt bit (Sign) og gjør Inn negativt
+når Sign er høy. Den sender ut igjen et åttebits tall (Out) som nå er
+signed.
+
+      Inn       | Sign |        Out
+----------------+------+-------------------
+0 0 0 0 0 0 0 1 |  0   | 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 |  1   | 1 1 1 1 1 1 1 1 1
+      ...       |  ... |       ...
+1 1 1 1 1 1 1 1 |  0   | 0 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 |  1   | 1 1 1 1 1 1 1 1 0

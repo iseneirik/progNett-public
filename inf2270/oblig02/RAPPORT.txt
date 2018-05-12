@@ -1,0 +1,111 @@
+MAIN:
+
+- Main er satt sammen av komponentene:
+	- RAM: Dataminne
+	- RAM: Instruksjonsminne
+	- Counter: Instruksjonspeker
+	- Decoder: Dekoding av instruksjon
+	- OW: Komponent for å overskrive 4 LSB/MSB
+	- Register: CPU-register
+
+- RAM: Instruksjonsminne
+Denne komponenten er hentet fra biblioteket til Logisim.
+Inn i A (Adresse), går en counter som teller opp fra (bin)0000
+til (bin)1111 som velger hvilken instruksjon som skal utføres.
+Instruksjonen går ut fra D (Data) og inn i en splitter som deler
+opp instruksjonen i to deler på 4-bit, bit 4-7 representerer 
+instruksjonen som skal dekodes, og bit 0-3 representerer dataen/adressen
+som instruksjonen benytter. Select og load er alltid aktivert for dette
+er for obligen "read-only"
+
+- RAM: Dataminne
+Denne komponenten er hentet fra biblioteket til Logisim.
+Inn i A (Adresse), går bit 0-3 av dataen til instruksjonminne som
+fungerer som adresse ved instruksjon "1010" eller "1011". Inn i D (Data)
+går det en system-buss som er koblet til inngangen og utgangen av 
+CPU-Registeret (R). Select for RAM-en blir aktivert ved instruksjon 
+"1010" eller "1011", og load blir aktivert av ved instruksjon "1010".
+Klokkeinngangen er koblet til samme klokke som counteren og CPU-registeret.
+
+- Counter: Instruksjonspeker
+Denne komponenten tar imot to input den ene inputen (Et klokkesignal) 
+inkrementerer outputen ved hver gang klokken går fra høy til lav. Den
+andre inputen resetter counteren ved aktivering. Komponenten er satt
+sammen av et register og en adder. Adderen tar imot input fra registeret
+og konstanten "1" og sender output tilbake til registeret som tar i mot 
+input en gang hver klokkesykel. Adderen har også carry invertert koblet 
+til registerets "enable", slik at når counteren får en carry (ved 1111 + 1) 
+så deaktiveres registeret og den stopper å telle.
+
+- Dekoder: Dekoding av instruksjon
+Denne komponenten tar inn en 4-bits instruksjon og aktiverer en av 4 outputs
+basert på instruksjonen. Denne komponenten består av en 4-bits dekoder fra
+logisim biblioteket hvor bare minterm 8, 9, 10 og 11 blir sendt til output.
+
+- OW: Komponent for å overskrive 4 LSB/MSB
+Denne komponenten tar inn en 8-bits verdi, som er den initielle verdien, en 
+4-bits verdi, som er de bitsene som skal leses inn i 8-bits verdien, og en
+switch som bestemmer om det er 4 LSB eller 4 MSB som skal leses over. 
+Som output så gir den den initielle 8-bits verdien hvor de 4 LSB eller 4 MSB
+er overskrevet av 4-bits verdien som også er gitt som input.
+Når switchen er "0" så er det 4 LSB som overskrives, når den er "1" så er det 4 MSB som overskrives.
+
+- Register: CPU-Registeret
+Denne komponenten er hentet fra Logisim biblioteket.
+Denne komponenten har utgangen (Q) koblet til seg selv (gjennom OW) og
+til dataminnet (gjennom systembussen til dataminnet). Inngangen er koblet
+til dataminnet (gjennom systembussen til dataminnet) og OW. Enable-signalet 
+blir aktivert når instruks "1000" eller "1001" eller "1010" er aktivert.
+Klokken er koblet til samme klokke som "counter" og Dataminnet.
+
+LOG FRA TESTFIL 1:
+
+v2.0 raw
+85 97 B1 81 94 A1 00 00
+00 00 00 00 00 00 00 00
+
+R	RAM(580,390)[1]	Counter(210,260).Out
+0000 0000	0000 0000	0000
+0000 0101	0000 0000	0001
+0111 0101	0000 0000	0010
+0111 0101	0111 0101	0010
+0111 0101	0111 0101	0011
+0111 0001	0111 0101	0100
+0100 0001	0111 0101	0101
+0111 0101	0111 0101	0110
+0111 0101	0111 0101	0111
+0111 0101	0111 0101	1000
+0111 0101	0111 0101	1001
+0111 0101	0111 0101	1010
+0111 0101	0111 0101	1011
+0111 0101	0111 0101	1100
+0111 0101	0111 0101	1101
+0111 0101	0111 0101	1110
+0111 0101	0111 0101	1111
+
+LOG FRA TESTFIL 2:
+
+v2.0 raw
+8C 9D B0 B3 81 91 A0 B4
+00 00 00 00 00 00 00 00
+
+R	RAM(580,390)[0]	RAM(580,390)[3]	RAM(580,390)[4]	Counter(210,260).Out
+0000 0000	0000 0000	0000 0000	0000 0000	0000
+0000 1100	0000 0000	0000 0000	0000 0000	0001
+1101 1100	0000 0000	0000 0000	0000 0000	0010
+1101 1100	1101 1100	0000 0000	0000 0000	0010
+1101 1100	1101 1100	0000 0000	0000 0000	0011
+1101 1100	1101 1100	1101 1100	0000 0000	0011
+1101 1100	1101 1100	1101 1100	0000 0000	0100
+1101 0001	1101 1100	1101 1100	0000 0000	0101
+0001 0001	1101 1100	1101 1100	0000 0000	0110
+1101 1100	1101 1100	1101 1100	0000 0000	0111
+1101 1100	1101 1100	1101 1100	1101 1100	0111
+1101 1100	1101 1100	1101 1100	1101 1100	1000
+1101 1100	1101 1100	1101 1100	1101 1100	1001
+1101 1100	1101 1100	1101 1100	1101 1100	1010
+1101 1100	1101 1100	1101 1100	1101 1100	1011
+1101 1100	1101 1100	1101 1100	1101 1100	1100
+1101 1100	1101 1100	1101 1100	1101 1100	1101
+1101 1100	1101 1100	1101 1100	1101 1100	1110
+1101 1100	1101 1100	1101 1100	1101 1100	1111
