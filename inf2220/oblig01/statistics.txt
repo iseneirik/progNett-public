@@ -1,0 +1,37 @@
+----- Statistics -----
+Depth of tree: 28
+Nodes per depth: 
+ 0:    1 nodes
+ 1:    2 nodes
+ 2:    4 nodes
+ 3:    8 nodes
+ 4:   16 nodes
+ 5:   32 nodes
+ 6:   62 nodes
+ 7:  117 nodes
+ 8:  201 nodes
+ 9:  337 nodes
+10:  532 nodes
+11:  786 nodes
+12: 1058 nodes
+13: 1291 nodes
+14: 1424 nodes
+15: 1487 nodes
+16: 1482 nodes
+17: 1339 nodes
+18: 1189 nodes
+19:  942 nodes
+20:  665 nodes
+21:  482 nodes
+22:  333 nodes
+23:  219 nodes
+24:  126 nodes
+25:   71 nodes
+26:   43 nodes
+27:   16 nodes
+28:    4 nodes
+Average depth: 15.40
+First word: elektrolytt
+Last word: familiefellesskaps
+----------------------
+

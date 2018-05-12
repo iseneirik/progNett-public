@@ -1,0 +1,499 @@
+///////////////////////////////
+> java Oblig2 buildhouse1.txt 0
+///////////////////////////////
+
+TASKS TO BE EXECUTED
+
+-----------------------------------------
+ID:   1 	NAME: Build-walls
+	Time:       4
+	Manpower:   2
+	Slack:      0
+	LST:        4
+	Children: 2  3  
+-----------------------------------------
+ID:   2 	NAME: Build-roofs
+	Time:       6
+	Manpower:   4
+	Slack:      0
+	LST:        8
+	Children: 3  4  7  
+-----------------------------------------
+ID:   3 	NAME: Put-on-wallpapers
+	Time:       1
+	Manpower:   2
+	Slack:      3
+	LST:       17
+	Children: 8  
+-----------------------------------------
+ID:   4 	NAME: Put-on-tiles
+	Time:       1
+	Manpower:   3
+	Slack:      7
+	LST:       21
+	Children: none
+-----------------------------------------
+ID:   5 	NAME: Build-foundation
+	Time:       4
+	Manpower:   2
+	Slack:      0
+	LST:        0
+	Children: 1  6  
+-----------------------------------------
+ID:   6 	NAME: Make-floor
+	Time:       2
+	Manpower:   2
+	Slack:      8
+	LST:       12
+	Children: 7  
+-----------------------------------------
+ID:   7 	NAME: Put-carpet-floor
+	Time:       4
+	Manpower:   2
+	Slack:      0
+	LST:       14
+	Children: 8  
+-----------------------------------------
+ID:   8 	NAME: Move-in
+	Time:       4
+	Manpower:   4
+	Slack:      0
+	LST:       18
+	Children: none
+-----------------------------------------
+
+NO LOOPS WHERE FOUND, RUN TASKS
+
+-----------------------------------------
+Time:   0
+	Started:   5
+	Current staff:   2
+
+Time:   4
+	Finished:   5
+	Started:   1
+	Started:   6
+	Current staff:   4
+
+Time:   6
+	Finished:   6
+	Current staff:   2
+
+Time:   8
+	Finished:   1
+	Started:   2
+	Current staff:   4
+
+Time:  14
+	Finished:   2
+	Started:   7
+	Started:   3
+	Started:   4
+	Current staff:   7
+
+Time:  15
+	Finished:   3
+	Finished:   4
+	Current staff:   2
+
+Time:  18
+	Finished:   7
+	Started:   8
+	Current staff:   4
+
+Time:  22
+	Finished:   8
+	Current staff:   0
+
+
+**** Shortest possible project execution is  22 ****
+
+////////////////////////////////
+> java Oblig2 buildhouse2.txt 0
+////////////////////////////////
+
+A loop was found!
+TaskID: 1
+
+
+////////////////////////////////
+> java Oblig2 buildrail.txt 0
+////////////////////////////////
+
+
+TASKS TO BE EXECUTED
+
+-----------------------------------------
+ID:   1 	NAME: Install-pavement
+	Time:      20
+	Manpower:  10
+	Slack:     12
+	LST:      198
+	Children: none
+-----------------------------------------
+ID:   2 	NAME: Install-railing
+	Time:       7
+	Manpower:  10
+	Slack:    206
+	LST:      211
+	Children: none
+-----------------------------------------
+ID:   3 	NAME: Install-ticketmachine
+	Time:       1
+	Manpower:  10
+	Slack:    154
+	LST:      217
+	Children: none
+-----------------------------------------
+ID:   4 	NAME: Paint-tower-1-with-arch
+	Time:      15
+	Manpower:   6
+	Slack:     84
+	LST:      203
+	Children: none
+-----------------------------------------
+ID:   5 	NAME: Paint-tower-2
+	Time:      12
+	Manpower:   6
+	Slack:     82
+	LST:      206
+	Children: none
+-----------------------------------------
+ID:   6 	NAME: Paint-trusses
+	Time:      27
+	Manpower:   6
+	Slack:      5
+	LST:      191
+	Children: none
+-----------------------------------------
+ID:   7 	NAME: Paint-cables-and-rods
+	Time:      18
+	Manpower:   6
+	Slack:     14
+	LST:      200
+	Children: none
+-----------------------------------------
+ID:   8 	NAME: Put-lane-tunnel-and-intersection
+	Time:      12
+	Manpower:   7
+	Slack:    143
+	LST:      194
+	Children: 3  31  
+-----------------------------------------
+ID:   9 	NAME: Setup-barrack
+	Time:       3
+	Manpower:  10
+	Slack:      0
+	LST:        0
+	Children: 10  11  12  14  16  17  
+-----------------------------------------
+ID:  10 	NAME: Prepare-storage
+	Time:       2
+	Manpower:   4
+	Slack:    206
+	LST:      209
+	Children: 2  
+-----------------------------------------
+ID:  11 	NAME: Rig-ramspace-reinforcing
+	Time:       1
+	Manpower:   4
+	Slack:      5
+	LST:        8
+	Children: 18  19  20  
+-----------------------------------------
+ID:  12 	NAME: Build-tunnel
+	Time:      30
+	Manpower:  12
+	Slack:    143
+	LST:      146
+	Children: 13  
+-----------------------------------------
+ID:  13 	NAME: Clean-tunnel
+	Time:      18
+	Manpower:  12
+	Slack:    143
+	LST:      176
+	Children: 8  
+-----------------------------------------
+ID:  14 	NAME: Build-intersection
+	Time:      25
+	Manpower:  12
+	Slack:    146
+	LST:      149
+	Children: 15  
+-----------------------------------------
+ID:  15 	NAME: Clean-intersection
+	Time:      20
+	Manpower:  12
+	Slack:    146
+	LST:      174
+	Children: 8  
+-----------------------------------------
+ID:  16 	NAME: Build-towerfoundation-1
+	Time:      35
+	Manpower:  12
+	Slack:     11
+	LST:       14
+	Children: 21  
+-----------------------------------------
+ID:  17 	NAME: Build-towerfoundation-2
+	Time:      45
+	Manpower:  12
+	Slack:      0
+	LST:        3
+	Children: 22  
+-----------------------------------------
+ID:  18 	NAME: Make-armouring-tower-1
+	Time:      40
+	Manpower:   4
+	Slack:      5
+	LST:        9
+	Children: 21  
+-----------------------------------------
+ID:  19 	NAME: Make-armouring-tower-2
+	Time:      25
+	Manpower:   4
+	Slack:     19
+	LST:       23
+	Children: 22  
+-----------------------------------------
+ID:  20 	NAME: Make-armouring-arch
+	Time:      12
+	Manpower:   4
+	Slack:    140
+	LST:      144
+	Children: 23  
+-----------------------------------------
+ID:  21 	NAME: Encase-and-armour-tower-1
+	Time:      15
+	Manpower:   5
+	Slack:      5
+	LST:       49
+	Children: 24  
+-----------------------------------------
+ID:  22 	NAME: Encase-and-armour-tower-2
+	Time:      16
+	Manpower:   5
+	Slack:      0
+	LST:       48
+	Children: 25  
+-----------------------------------------
+ID:  23 	NAME: Encase-and-armour-arch
+	Time:      30
+	Manpower:   5
+	Slack:    140
+	LST:      156
+	Children: 26  
+-----------------------------------------
+ID:  24 	NAME: Cast-tower-1
+	Time:      60
+	Manpower:   7
+	Slack:      5
+	LST:       64
+	Children: 4  27  
+-----------------------------------------
+ID:  25 	NAME: Cast-tower-2
+	Time:      60
+	Manpower:   7
+	Slack:      0
+	LST:       64
+	Children: 5  27  
+-----------------------------------------
+ID:  26 	NAME: Cast-arch
+	Time:      20
+	Manpower:   7
+	Slack:    140
+	LST:      186
+	Children: 31  
+-----------------------------------------
+ID:  27 	NAME: Stretch-two-maincables
+	Time:      25
+	Manpower:  10
+	Slack:      0
+	LST:      124
+	Children: 28  29  
+-----------------------------------------
+ID:  28 	NAME: Build-truss-1-with-rods
+	Time:      30
+	Manpower:  10
+	Slack:      7
+	LST:      156
+	Children: 1  6  7  30  
+-----------------------------------------
+ID:  29 	NAME: Build-truss-2-with-rods
+	Time:      37
+	Manpower:  10
+	Slack:      0
+	LST:      149
+	Children: 1  6  7  30  
+-----------------------------------------
+ID:  30 	NAME: Cast-lane-on-truss
+	Time:      20
+	Manpower:   7
+	Slack:      0
+	LST:      186
+	Children: 31  
+-----------------------------------------
+ID:  31 	NAME: Polish-lane-on-arch
+	Time:      12
+	Manpower:   7
+	Slack:      0
+	LST:      206
+	Children: none
+-----------------------------------------
+
+NO LOOPS WHERE FOUND, RUN TASKS
+
+-----------------------------------------
+Time:   0
+	Started:   9
+	Current staff:  10
+
+Time:   3
+	Finished:   9
+	Started:  17
+	Started:  10
+	Started:  11
+	Started:  12
+	Started:  14
+	Started:  16
+	Current staff:  56
+
+Time:   4
+	Finished:  11
+	Started:  18
+	Started:  19
+	Started:  20
+	Current staff:  64
+
+Time:   5
+	Finished:  10
+	Started:   2
+	Current staff:  70
+
+Time:  12
+	Finished:   2
+	Current staff:  60
+
+Time:  16
+	Finished:  20
+	Started:  23
+	Current staff:  61
+
+Time:  28
+	Finished:  14
+	Started:  15
+	Current staff:  61
+
+Time:  29
+	Finished:  19
+	Current staff:  57
+
+Time:  33
+	Finished:  12
+	Started:  13
+	Current staff:  57
+
+Time:  38
+	Finished:  16
+	Current staff:  45
+
+Time:  44
+	Finished:  18
+	Started:  21
+	Current staff:  46
+
+Time:  46
+	Finished:  23
+	Started:  26
+	Current staff:  48
+
+Time:  48
+	Finished:  17
+	Finished:  15
+	Started:  22
+	Current staff:  29
+
+Time:  51
+	Finished:  13
+	Started:   8
+	Current staff:  24
+
+Time:  59
+	Finished:  21
+	Started:  24
+	Current staff:  26
+
+Time:  63
+	Finished:   8
+	Started:   3
+	Current staff:  29
+
+Time:  64
+	Finished:  22
+	Finished:   3
+	Started:  25
+	Current staff:  21
+
+Time:  66
+	Finished:  26
+	Current staff:  14
+
+Time: 119
+	Finished:  24
+	Started:   4
+	Current staff:  13
+
+Time: 124
+	Finished:  25
+	Started:  27
+	Started:   5
+	Current staff:  22
+
+Time: 134
+	Finished:   4
+	Current staff:  16
+
+Time: 136
+	Finished:   5
+	Current staff:  10
+
+Time: 149
+	Finished:  27
+	Started:  29
+	Started:  28
+	Current staff:  20
+
+Time: 179
+	Finished:  28
+	Current staff:  10
+
+Time: 186
+	Finished:  29
+	Started:  30
+	Started:   1
+	Started:   6
+	Started:   7
+	Current staff:  29
+
+Time: 204
+	Finished:   7
+	Current staff:  23
+
+Time: 206
+	Finished:  30
+	Finished:   1
+	Started:  31
+	Current staff:  13
+
+Time: 213
+	Finished:   6
+	Current staff:   7
+
+Time: 218
+	Finished:  31
+	Current staff:   0
+
+
+**** Shortest possible project execution is 218 ****
+

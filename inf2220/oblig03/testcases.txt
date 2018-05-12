@@ -1,0 +1,55 @@
+Haystack: ananbanpanmanganheftadsf asdfanpanmanasdf sdftfsdf klsdlkjghapwoeij
+
+Test 1: anpanman
+	Expected result:
+		index 5: anpanman
+		index 29: anpanman
+
+Test 2: an_an_an
+	Expected result:
+		index 2: anbanpan
+		index 5: anpanman
+		index 8: anmangan
+		index 29: anpanman
+
+Test 3: a_d
+	Expected result:
+		index 25: asd
+		index 37: asd
+
+Test 4: __k
+	Expected result:
+		index 49: f k
+		index 54: dlk
+
+** AFTER EXECUTION **
+
+Test 1:
+	Needle: anpanman
+	Haystack: ananbanpanmanganheftadsf asdfanpanmanasdf sdftfsdf klsdlkjghapwoeij
+
+	Index 5: anpanman
+	Index 29: anpanman
+
+Test 2:
+	Needle: an_an_an
+	Haystack: ananbanpanmanganheftadsf asdfanpanmanasdf sdftfsdf klsdlkjghapwoeij
+
+	Index 2: anbanpan
+	Index 5: anpanman
+	Index 8: anmangan
+	Index 29: anpanman
+
+Test 3:
+	Needle: a_d
+	Haystack: ananbanpanmanganheftadsf asdfanpanmanasdf sdftfsdf klsdlkjghapwoeij
+
+	Index 25: asd
+	Index 37: asd
+
+Test 4:
+	Needle: __k
+	Haystack: ananbanpanmanganheftadsf asdfanpanmanasdf sdftfsdf klsdlkjghapwoeij
+
+	Index 49: f k
+	Index 54: dlk
